@@ -17,3 +17,7 @@ with so few datapoints without catastrophic overfitting.
 - MAML optimizes the parameters such that they lie in a region that is amenable to fast adaptation.
 
 5. We follow the experimental protocol proposed by Vinyal et al. (2016)
+
+6. locomotion
+- 운동[이동/보행] (능력)
+- locomotion tasks with MoJoCo simulator
