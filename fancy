@@ -9,4 +9,5 @@
 
 3. catastrophic
 - 대변동[큰 재앙]의; 파멸의, 비극적인; 대단원의
-- the model that is pretrained using standard supervised learning on all tasks is unable to adequately adapt with so few datapoints without catastrophic overfitting.
+- the model that is pretrained using standard supervised learning on all tasks is unable to adequately adapt 
+with so few datapoints without catastrophic overfitting.
