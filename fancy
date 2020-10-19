@@ -11,3 +11,7 @@
 - 대변동[큰 재앙]의; 파멸의, 비극적인; 대단원의
 - the model that is pretrained using standard supervised learning on all tasks is unable to adequately adapt 
 with so few datapoints without catastrophic overfitting.
+
+4. amenable
+- 격식 (특정한 방식으로) 처리할 수 있는, 말을 잘 듣는
+- MAML optimizes the parameters such that they lie in a region that is amenable to fast adaptation.
