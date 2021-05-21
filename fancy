@@ -47,6 +47,11 @@ with so few datapoints without catastrophic overfitting.
 - You can’t lump all Asian languages together
 (모든 아시아 언어들을 함께 묶을 수는 없다.)
 
-12. Informal problem definition
+12. multiplicative
+- 증가하는, 증식의; 증식[번식]력이 있는
+- 곱셈의
+- you pick the corresponding task which corresponds to this sort of multiplicative gating 
+where you're just selecting which of the outputs you're going to produce based of your task index .
+
 
 
