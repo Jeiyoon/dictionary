@@ -102,7 +102,6 @@ where you're just selecting which of the outputs you're going to produce based o
 - 특이한 성격[방식], 성벽, 별스러운 점 (=eccentricity)
 - A pretrained LM can be easily adapted to the idiosyncrasies of a target task
 
-
 23. slant
 - 기울어지다, 비스듬해지다; 기울게[비스듬하게] 하다
 - The full LM is slanted triangular learning rates (STLR) to learn task-specific features
