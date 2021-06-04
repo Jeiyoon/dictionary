@@ -132,6 +132,9 @@ where you're just selecting which of the outputs you're going to produce based o
 - (좁은 곳에) 밀어 넣다[쑤셔 박다], 밀고 들어가다
 - For classification, we often squash the model output through a softmax function, and sample from the resulting probability vector
 
-
+29. obviate
+- (문제·필요성을) 제거[배제]하다 (=preclude)
+- This new evidence obviates the need for any further enquiries
+(이 새 증거로 더 이상 조사할 필요가 없어졌다.)
 
 
