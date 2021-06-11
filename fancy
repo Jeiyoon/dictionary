@@ -180,4 +180,6 @@ where you're just selecting which of the outputs you're going to produce based o
 - 대충 그때그때 봐 가며 (…을 하다)
 - each task for neta-learning is constructed "on the fly" during the meta-training stage, commonly described as an episode
 
+39. We emphasize that we need to sample without replacement to optimize the generalization error.
+
 
