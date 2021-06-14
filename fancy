@@ -195,4 +195,12 @@ where you're just selecting which of the outputs you're going to produce based o
 - this is often called "Amortized variational inference" and that we're having an inference network that's predicting 
 what the variational distribution will be as basically amortizing the process of estimating that distribution
 
+42. disclaimer
+- (책임·연루 등에 대한) 부인
+- Noun 법률 권리 포기 각서
+- 면책조항
+- "Disclaimer": These topics are at the bleeding edge of research
+(면책 조항 :이 주제는 연구의 최첨단에 있습니다.)
+
+
 
