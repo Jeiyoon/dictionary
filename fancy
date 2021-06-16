@@ -256,4 +256,8 @@ what the variational distribution will be as basically amortizing the process of
 - the brevity of human life
 (인간 삶의 덧없음)
 
-53. 
+53. The second last layer is used since we need a more general contextualized representation 
+and the embeddings corresponding to the last layer is more tuned towards the downstream tasks.
+- ... >>> [second last] >>> [last]
+
+54. 
