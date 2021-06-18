@@ -270,4 +270,11 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 - Such traditional methods seem incongruous in our technical age.
 (그러한 전통적인 방법들은 우리의 과학기술 시대에는 어울리지 않아 보인다.)
 
-56.
+56. whereby
+- (그것에 의하여) …하는
+- They have introduced a new system whereby all employees must undergo regular training.
+(그들은 (그에 따라) 모든 직원들이 반드시 정기적인 교육을 받아야 하는 새로운 시스템을 도입했다.)
+
+57.
+
+
