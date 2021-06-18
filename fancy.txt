@@ -265,4 +265,9 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 - Now we come to the crux of the matter.
 (이제 이 문제의 가장 곤란한 부분에 이르렀습니다.)
 
-55. 
+55. incongruous
+- (특정한 상황에서는) 어울리지 않는[이상한] (=inappropriate)
+- Such traditional methods seem incongruous in our technical age.
+(그러한 전통적인 방법들은 우리의 과학기술 시대에는 어울리지 않아 보인다.)
+
+56.
