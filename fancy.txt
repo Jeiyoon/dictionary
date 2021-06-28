@@ -275,6 +275,12 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 - They have introduced a new system whereby all employees must undergo regular training.
 (그들은 (그에 따라) 모든 직원들이 반드시 정기적인 교육을 받아야 하는 새로운 시스템을 도입했다.)
 
-57.
+57. abbreviation
+- (~의) 축약형
+- The text also includes many abbreviations, e.g. "pls hlp".
+
+58. disclose
+- 밝히다, 드러내다
+- Note that the reference are not disclosed in the challenge period.
 
 
