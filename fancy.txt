@@ -283,4 +283,7 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 - 밝히다, 드러내다
 - Note that the reference are not disclosed in the challenge period.
 
+59. Depending on the granularity of evaluation, there are three levels of correlation analysis.
+
+60.
 
