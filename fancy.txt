@@ -285,5 +285,7 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 
 59. Depending on the granularity of evaluation, there are three levels of correlation analysis.
 
-60.
+60. delimit
+- 범위[한계]를 정하다
+- placeholder(or protected sequence): sequence of characters delimited by “｟” and “｠” that should not be segmented
 
