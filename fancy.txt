@@ -289,3 +289,9 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 - 범위[한계]를 정하다
 - placeholder(or protected sequence): sequence of characters delimited by “｟” and “｠” that should not be segmented
 
+61. obviate
+- (문제·필요성을) 제거[배제]하다 (=preclude)
+- This new evidence obviates the need for any further enquiries.
+(이 새 증거로 더 이상 조사할 필요가 없어졌다.)
+
+
