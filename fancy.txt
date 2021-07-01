@@ -311,3 +311,7 @@ a memory matrix which stores useful information to solve the task at hand
 - All these different ideas can be subsumed under just two broad categories.
 (각기 다른 이 모든 생각들이 단 두 가지의 넓은 범주 아래 포괄될 수 있다.)
 
+67. myopic
+- 근시(성)의, 근시안적인
+- the embeddings on which we apply the cosine similarity to "attend", "point" or simply compute the nearest neighbor are
+myopic in the sense that each element gets embedded by "g" independently of other elements in the support set "S"
