@@ -315,3 +315,7 @@ a memory matrix which stores useful information to solve the task at hand
 - 근시(성)의, 근시안적인
 - the embeddings on which we apply the cosine similarity to "attend", "point" or simply compute the nearest neighbor are
 myopic in the sense that each element gets embedded by "g" independently of other elements in the support set "S"
+
+68. Typically we consider "T" to uniformly weight all data sets of up to a few unique classes with a few examples per class. 
+
+
