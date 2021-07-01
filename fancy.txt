@@ -318,4 +318,10 @@ myopic in the sense that each element gets embedded by "g" independently of othe
 
 68. Typically we consider "T" to uniformly weight all data sets of up to a few unique classes with a few examples per class. 
 
+69. belabor
+- 장황하게 논하다, (말로) 공격하다
+- Obviously, as T' diverges far from the T from which we sampled to learn "theta", the model will not work - we belabor this point
+further in Section 4.1.2
+
+70. 
 
