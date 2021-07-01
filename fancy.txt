@@ -301,3 +301,13 @@ a memory matrix which stores useful information to solve the task at hand
 64. be akin to
 - ~과 같은 , ~과 흡사한
 - Where the attention mechanism "a" is a kernel on X x X, then the eq.1 is akin to a kernel density estimator
+
+65. farthest ( = furthest)
+- (공간시간상으로) 가장 먼, 가장 멀리
+- the house farthest away from the road
+
+66. subsume
+- 포함[포괄]하다
+- All these different ideas can be subsumed under just two broad categories.
+(각기 다른 이 모든 생각들이 단 두 가지의 넓은 범주 아래 포괄될 수 있다.)
+
