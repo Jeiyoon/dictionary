@@ -298,4 +298,6 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 - In all these models, a neural attention mechanism, often fully differentiable, is defined to access
 a memory matrix which stores useful information to solve the task at hand
 
-
+64. be akin to
+- ~과 같은 , ~과 흡사한
+- Where the attention mechanism "a" is a kernel on X x X, then the eq.1 is akin to a kernel density estimator
