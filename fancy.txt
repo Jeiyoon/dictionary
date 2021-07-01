@@ -291,6 +291,11 @@ and the embeddings corresponding to the last layer is more tuned towards the dow
 
 61. The novelty of our work is twofold: at the modeling level, and at the training procedure.
 
-62.
+62. We draw inspiration from models such as sequence to sequence, memory networks, and pointer networks.
+
+63. at hand
+- (거리가) 가까운; 가까운 장래에, 머지않아, 즉시 쓸 수 있도록 (준비하여). (=close by, near.)
+- In all these models, a neural attention mechanism, often fully differentiable, is defined to access
+a memory matrix which stores useful information to solve the task at hand
 
 
