@@ -331,4 +331,8 @@ further in Section 4.1.2
 - Our proposal tries to accommodate the special needs of minority groups.
 (저희 계획안은 소수 집단들의 특별한 요구를 담고자 합니다.)
 
-71. 
+71. shed light on 
+- …을 비추다; 밝히다, 해명하다. (=clarify, clear up.)
+- The scatter plot of the embedding average sheds light on why it has a very low Spearman correlation.
+
+72. 
