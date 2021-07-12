@@ -335,4 +335,4 @@ further in Section 4.1.2
 - …을 비추다; 밝히다, 해명하다. (=clarify, clear up.)
 - The scatter plot of the embedding average sheds light on why it has a very low Spearman correlation.
 
-72. 
+72. The remainder of this paper is organized as follows: Section 2 presents the brief background to set the stage for our model.
