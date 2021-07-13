@@ -339,4 +339,7 @@ further in Section 4.1.2
 
 73. We have witnessed huge improvements in the fields of computer vision (CV) and natural language processing (NLP) in the last decade.
 
-74. 
+74. proliferation
+- 급증, 확산
+- With the proliferation of human-human dialog data, sophisticated learning strategies and boost in computational power, 
+training end-to-end conversational dialog system becomes feasible.
