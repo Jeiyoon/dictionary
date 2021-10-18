@@ -386,4 +386,6 @@ training end-to-end conversational dialog system becomes feasible.
 
 82. prescience
 - 예지; 선견(foresight), 혜안, 통찰
-- 
+- NAG is a way to give our momentum term this kind of prescience
+
+83. 
