@@ -366,4 +366,24 @@ training end-to-end conversational dialog system becomes feasible.
 - impeccable manners/taste
 (흠 잡을 데 없는 태도/취향)
 
-79. 
+79. plateau
+- 안정기, 정체기
+- 안정[정체] 상태를 유지하다
+- Inflation has reached a plateau
+(인플레이션이 안정기에 접어들었다)
+
+80. ravine
+- (좁고 험한) 산골짜기, 협곡 (=gorge)
+- SGD has trouble navigating ravines
+
+81. dampen
+- (물에) 축이다[적시다]
+- Perspiration dampened her face and neck
+(땀이 그녀의 얼굴과 목을 적셨다.)
+- 감정·반응의 기세를) 꺾다[약화시키다]
+- None of the setbacks could dampen his enthusiasm for the project
+(그 어떤 좌절도 그 프로젝트에 대한 그의 열의를 꺾지는 못했다)
+
+82. prescience
+- 예지; 선견(foresight), 혜안, 통찰
+- 
