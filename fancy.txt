@@ -348,4 +348,22 @@ training end-to-end conversational dialog system becomes feasible.
 - (음식·약 등을) 삼키다[먹다]
 - In contrast to prior work, which has sought to train recurrent neural networks that ingest entire datasets, we propose ~
 
+76. redundant
+- (일거리 부족으로) 정리 해고[감원 조치/실직]당한
+- to be made redundant from your job
+(직장에서 정리 해고당하다)
+- 불필요한, 쓸모없는
+- The picture has too much redundant detail
+(그 그림에는 불필요한 세부 묘사가 너무 많다)
 
+77. fluctuate
+- 변동[등락]을 거듭하다
+- fluctuating prices
+(변동이 심한 물가)
+
+78. impeccable
+- 흠 잡을 데 없는
+- impeccable manners/taste
+(흠 잡을 데 없는 태도/취향)
+
+79. 
