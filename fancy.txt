@@ -388,4 +388,11 @@ training end-to-end conversational dialog system becomes feasible.
 - 예지; 선견(foresight), 혜안, 통찰
 - NAG is a way to give our momentum term this kind of prescience
 
-83. 
+83. vicinal
+- 인근의, 부근의; 근접한, 인접의
+- vicinal organ
+(인접 기관)
+
+84. 
+
+
