@@ -398,6 +398,10 @@ training end-to-end conversational dialog system becomes feasible.
 - The truck’s kaput.
 (그 트럭은 고장났다.)
 
-85. 
+85. circumvent
+- (어려움이나 법 등을) 피하다
+- They found a way of circumventing the law
+(그들은 그 법을 회피할 방법을 찾아내었다.)
 
+86. 
 
