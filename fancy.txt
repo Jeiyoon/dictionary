@@ -408,4 +408,9 @@ training end-to-end conversational dialog system becomes feasible.
 - We propose a principled approach to multi-task deep learning which weighs multiple loss functions 
 by considering the homoscedastic uncertainty of each task.
 
-87. 
+87. homoscedastic
+- 등분산적(等分散的)인
+- We propose a principled approach to multi-task deep learning which weighs multiple loss functions 
+by considering the homoscedastic uncertainty of each task.
+
+88. 
