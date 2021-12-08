@@ -403,5 +403,9 @@ training end-to-end conversational dialog system becomes feasible.
 - They found a way of circumventing the law
 (그들은 그 법을 회피할 방법을 찾아내었다.)
 
-86. 
+86. principled
+- 원칙에 입각한
+- We propose a principled approach to multi-task deep learning which weighs multiple loss functions 
+by considering the homoscedastic uncertainty of each task.
 
+87. 
