@@ -416,4 +416,13 @@ by considering the homoscedastic uncertainty of each task.
 - 회고[추억]하다 ((on)), 소급하여 대조해 보다 ((to))
 - We present the first survey in GEC for a comprehensive retrospect of the literature in this area.
 
-89. 
+89. supersede
+- 대체[대신]하다
+- The performance of rule ased GEC systems has been superseded by data-driven approaches.
+
+90. boast
+- 뽐내다, 자랑하다
+- The hotel also boasts two swimming pools and a golf course.
+(또한 그 호텔은 자랑할 만한 두 개의 수영장과 골프 코스를 가지고 있다.)
+
+91. 
