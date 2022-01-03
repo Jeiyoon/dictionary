@@ -433,4 +433,10 @@ by considering the homoscedastic uncertainty of each task.
 - 보통 밖에 안 되는, 썩 좋지는 않은
 - This is meaningful since a robust specialised system is more desirable than a mdeiocre general system
 
-93. 
+93. discrepancy
+- (같아야 할 것들 사이의) 차이[불일치]
+- wide discrepancies in prices quoted for the work
+(그 작업에 대해 제시된 가격들 사이의 큰 차이)
+
+94. 
+
