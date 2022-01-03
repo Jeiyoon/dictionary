@@ -429,4 +429,8 @@ by considering the homoscedastic uncertainty of each task.
 - 개선하다
 - This problem could be partly ameliorated by the proposal of various data augmentation methods.
 
-92. 
+92. mediocre
+- 보통 밖에 안 되는, 썩 좋지는 않은
+- This is meaningful since a robust specialised system is more desirable than a mdeiocre general system
+
+93. 
