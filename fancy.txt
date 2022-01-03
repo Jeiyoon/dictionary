@@ -4,7 +4,6 @@
 
 2. rollout
 - 컴퓨터 (자료를) 뽑아내기, 롤아웃.
-- Concurrent installations of multiple editions of applications with interruption-free rollouts and rollback capability
 (중단 없는 롤아웃 및 롤백 기능을 통해 여러 버전의 애플리케이션을 동시에 설치)
 
 3. catastrophic
@@ -413,4 +412,8 @@ by considering the homoscedastic uncertainty of each task.
 - We propose a principled approach to multi-task deep learning which weighs multiple loss functions 
 by considering the homoscedastic uncertainty of each task.
 
-88. 
+88. retrospect
+- 회고[추억]하다 ((on)), 소급하여 대조해 보다 ((to))
+- We present the first survey in GEC for a comprehensive retrospect of the literature in this area.
+
+89. 
