@@ -418,7 +418,7 @@ by considering the homoscedastic uncertainty of each task.
 
 89. supersede
 - 대체[대신]하다
-- The performance of rule ased GEC systems has been superseded by data-driven approaches.
+- The performance of rule based GEC systems has been superseded by data-driven approaches.
 
 90. boast
 - 뽐내다, 자랑하다
