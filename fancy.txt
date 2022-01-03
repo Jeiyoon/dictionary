@@ -425,4 +425,8 @@ by considering the homoscedastic uncertainty of each task.
 - The hotel also boasts two swimming pools and a golf course.
 (또한 그 호텔은 자랑할 만한 두 개의 수영장과 골프 코스를 가지고 있다.)
 
-91. 
+91. ameliorate
+- 개선하다
+- This problem could be partly ameliorated by the proposal of various data augmentation methods.
+
+92. 
