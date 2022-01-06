@@ -442,5 +442,9 @@ by considering the homoscedastic uncertainty of each task.
 - 다양함, 다재다능함
 - Several researches have taken the advantage of the versatility and flexibility.
 
-95.
+95. glean
+- (정보·지식 등을 어렵게 여기저기서) 얻다[모으다]
+- We attempt to accumulate source-target pairs from grammatical errors and their human-curated corrections gleaned from the Wikipedia revision histories.
+
+96. 
 
