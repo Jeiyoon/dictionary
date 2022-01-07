@@ -446,5 +446,13 @@ by considering the homoscedastic uncertainty of each task.
 - (정보·지식 등을 어렵게 여기저기서) 얻다[모으다]
 - We attempt to accumulate source-target pairs from grammatical errors and their human-curated corrections gleaned from the Wikipedia revision histories.
 
-96. 
+96. curated
+- 만들다
+- The model is trained and tested on a curated dataset derived from the CATH database.
+
+97. rectified
+- 수정하다
+- Shuffle the words by adding a normal distribution bias to the positions of the words and re-sort the words by the rectified positions with a standard deviation 0.5.
+
+98. 
 
