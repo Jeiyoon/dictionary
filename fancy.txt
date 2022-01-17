@@ -480,5 +480,10 @@ by considering the homoscedastic uncertainty of each task.
 - 아주 간결하게
 - In a nutshell, the instance-specific vocabulary for source X is ~
 
-103. 
+103. coordinated
+- 조직화[편성]하다
+- Both addressing strategies are coordinated by the decoder RNN in managing the attentive read and selective read, as well as determining when to enter/quit the copy-mode.
+
+104. fetch
+
 
