@@ -454,5 +454,16 @@ by considering the homoscedastic uncertainty of each task.
 - 수정하다
 - Shuffle the words by adding a normal distribution bias to the positions of the words and re-sort the words by the rectified positions with a standard deviation 0.5.
 
-98. 
+98. machinery
+- (특히 큰 기계를 집합적으로 가리켜) 기계(류), 기계 부품들
+- The challenge with regard to copying in Seq2Seq is that new machinery is needed to decide when to perform the operation.
+- 조직, 시스템, 기구
+- the machinery of government
+(정부 조직)
+
+99. rote
+- (기계적인 반복에 의한) 암기
+- The copying mechanism is closer to the rote memorization in language processing of human being, deserving a different modeling strategy in neural network-based models.
+
+100. 
 
