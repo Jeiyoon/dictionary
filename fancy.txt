@@ -484,6 +484,16 @@ by considering the homoscedastic uncertainty of each task.
 - 조직화[편성]하다
 - Both addressing strategies are coordinated by the decoder RNN in managing the attentive read and selective read, as well as determining when to enter/quit the copy-mode.
 
-104. fetch
+104. conjunction
+- 접속사
+- (특별한 결과를 초래하는 사건 등의) 결합
+- We iteratively update the breaker and fixer while using them in conjunction to generate more paired data.
 
+105. fetch
+- 특히 英 (어디를 가서) 가지고[데리고/불러] 오다
+- (특정 가격에) 팔리다 (=sell for)
+- The painting is expected to fetch $10000 at auction.
+(그 그림은 경매에서 1만 달러에 팔릴 것으로 예상된다.)
+
+106. 
 
