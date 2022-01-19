@@ -492,8 +492,12 @@ by considering the homoscedastic uncertainty of each task.
 105. fetch
 - 특히 英 (어디를 가서) 가지고[데리고/불러] 오다
 - (특정 가격에) 팔리다 (=sell for)
-- The painting is expected to fetch $10000 at auction.
+- The painting is expected to fetch $10000 at auction. 
 (그 그림은 경매에서 1만 달러에 팔릴 것으로 예상된다.)
 
-106. 
+106. indent (<-> dedent)
+- (글의 행을) 들여 쓰다
+- To generate the human error from the corrected code, a pair of indent and dedent tokens need to be inserted accordingly, which random perturbations generate with very small probability.
 
+107. constrain
+- 
