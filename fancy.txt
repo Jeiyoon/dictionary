@@ -500,4 +500,24 @@ by considering the homoscedastic uncertainty of each task.
 - To generate the human error from the corrected code, a pair of indent and dedent tokens need to be inserted accordingly, which random perturbations generate with very small probability.
 
 107. constrain
-- 
+- …하게 만들다[강요하다]
+- The evidence was so compelling that he felt constrained to accept it.
+(그 증거가 너무나 강력하여 그는 그것을 받아들여야만 할 것 같은 기분이 들었다.)
+- ~에게 (~하지) 못하게 하다, ~에게 (~을 하는 것을) 제한[제약]하다
+- Research has been constrained by a lack of funds.
+(연구 활동이 기금 부족으로 제약을 받아 왔다.)
+
+108. Besides ED1, here we include heuristics for word-level perturbations.
+
+109. nimble
+- (동작이) 빠른, 날렵한 (=agile)
+- You need nimble fingers for that job
+(그 일을 하려면 손이 빨라야 한다)
+
+110. 
+
+
+
+
+
+
