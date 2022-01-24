@@ -514,7 +514,23 @@ by considering the homoscedastic uncertainty of each task.
 - You need nimble fingers for that job
 (그 일을 하려면 손이 빨라야 한다)
 
-110. 
+110. plural
+- (Abbr.) pl.. 복수형 (→singular)
+- The plural of ‘child’ is ‘children’.
+(child의 복수형은 children이다.)
+
+111. tense
+- 긴장한, 신경이 날카로운
+- He’s a very tense person.
+(그는 아주 신경이 날카로운 사람이다.)
+- 긴박한, 긴장된
+- I spent a tense few weeks waiting for the results of the tests.
+(나는 그 테스트 결과를 기다리며 긴장된 몇 주를 보냈다.)
+- (동사의) 시제
+- the past/present/future tense
+(과거/현재/미래 시제)
+
+112.
 
 
 
