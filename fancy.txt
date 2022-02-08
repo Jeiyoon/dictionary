@@ -531,7 +531,12 @@ by considering the homoscedastic uncertainty of each task.
 - the past/present/future tense
 (과거/현재/미래 시제)
 
-112.
+112. spurious
+- 거짓된, 겉으로만 그럴싸한, 비논리적인
+- He had managed to create the entirely spurious impression that the company was thriving.
+(그는 회사가 번창하고 있다는, 전적으로 겉으로만 그럴싸한 인상을 만들어 내는 데 성공했었다.)
+
+113.
 
 
 
