@@ -536,7 +536,14 @@ by considering the homoscedastic uncertainty of each task.
 - He had managed to create the entirely spurious impression that the company was thriving.
 (그는 회사가 번창하고 있다는, 전적으로 겉으로만 그럴싸한 인상을 만들어 내는 데 성공했었다.)
 
-113.
+113. ramble
+- (특히 전원 속을) 걷다[거닐다/소요하다]
+- The simplest way to run a trained GPT-2 is to allow it to ramble on its own.
+- (특히 오랫동안) 횡설수설하다[지껄이다]
+- He had lost track of what he was saying and began to ramble.
+(가 무슨 말을 하던 중이었는지를 잊어버리고 횡설수설하기 시작했다.)
+
+114. 
 
 
 
