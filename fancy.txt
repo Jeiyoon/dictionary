@@ -543,7 +543,12 @@ by considering the homoscedastic uncertainty of each task.
 - He had lost track of what he was saying and began to ramble.
 (가 무슨 말을 하던 중이었는지를 잊어버리고 횡설수설하기 시작했다.)
 
-114. 
+114. degenerate
+- (도덕적육체적정신적으로) 악화되다 (=deteriorate)
+- 퇴폐적인, 타락한, 퇴보한, 퇴화한
+- The word embeddings in our studied model degenerated into a narrow cone.
+
+115.
 
 
 
