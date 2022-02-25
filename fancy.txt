@@ -548,7 +548,11 @@ by considering the homoscedastic uncertainty of each task.
 - 퇴폐적인, 타락한, 퇴보한, 퇴화한
 - The word embeddings in our studied model degenerated into a narrow cone.
 
-115.
+115. corroborate
+- (진술·이론 등을 뒷받침하는 증거나 정보를) 제공하다, 확증[입증]하다 (=confirm)
+- These experiments corroborate the findings of layer-wise relevance propagarion.
+
+116. 
 
 
 
