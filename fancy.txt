@@ -565,7 +565,11 @@ with assistants in the future.
 - You might be able to ask an assistant for the local weather forecast, for example, but it will be flummoxed if 
 you follow up with something simple but unexpected, like “Is it hotter than it was last week?” 
 
-118. 
+118. fuse
+- 융합[결합]되다[시키다]
+- Finally, Project CAIRaoke fuses the technology supporting Meta AI’s latest conversational bot, BlenderBot 2.0, into task-oriented dialogs. 
+
+119. 
 
 
 
