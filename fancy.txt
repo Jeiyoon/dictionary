@@ -552,10 +552,20 @@ by considering the homoscedastic uncertainty of each task.
 - (진술·이론 등을 뒷받침하는 증거나 정보를) 제공하다, 확증[입증]하다 (=confirm)
 - These experiments corroborate the findings of layer-wise relevance propagarion.
 
-116. 
+116. immersive
+- (컴퓨터 시스템이나 영상이 사용자를) 에워싸는 듯한
+- We’re already using the model that resulted from Project CAIRaoke in one of our products, Portal, 
+and we aim to integrate it with augmented and virtual reality devices to enable immersive, multimodal interactions 
+with assistants in the future.
 
+117. flummox
+- 당황하게[혼란스럽게] 만들다
+- I was flummoxed by her question.
+(나는 그녀의 질문에 당황했다.)
+- You might be able to ask an assistant for the local weather forecast, for example, but it will be flummoxed if 
+you follow up with something simple but unexpected, like “Is it hotter than it was last week?” 
 
-
+118. 
 
 
 
