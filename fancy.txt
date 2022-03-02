@@ -578,7 +578,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - A generic video summary is an abridged version of a video that conveys the whole story and features the most important scenes.
 
 121. attest 
-- 증명[입증]하다 (=bear witness to)
+- 증명[입증]하다 (=bear witness to) 
 - Contemporary accounts attest to his courage and determination.
 (동시대인들의 말이 그의 용기와 결의를 입증한다.)
 
@@ -587,6 +587,18 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - Keep your answers as succinct as possible
 (대답은 가능한 한[최대한] 간단명료하게 하라.)
 
-123.
+123. knapsack
+- (작은) 배낭
+- knapsack algorithm
+
+124. synopsis
+- (글·희곡 등의) 개요
+- A video summary is a short synopsis created by stiching together important clips from tthe original video.
+
+125. suffice
+- 충분하다
+- Oftentimes users browsing videos on YouTube are looking for something specific so a generic summary might not suffice
+
+126. 
 
 
