@@ -569,7 +569,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 융합[결합]되다[시키다]
 - Finally, Project CAIRaoke fuses the technology supporting Meta AI’s latest conversational bot, BlenderBot 2.0, into task-oriented dialogs. 
 
-119. 
+119. abridge
+- (책·희곡 등을) 요약[축약]하다
+- A generic video summary is an abridged version of a video that conveys the whole story and features the most important scenes.
 
+120. generic
+- 포괄적인, 총칭[통칭]의, 일반적인
+- A generic video summary is an abridged version of a video that conveys the whole story and features the most important scenes.
+
+121. 
 
 
