@@ -613,6 +613,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - We can only conjecture about what was in the killer’s mind.
 (그 살인자의 마음속에 들어 있던 생각에 대해서는 추측만 할 수 있을 뿐이다.)
 
-129. 
+129. countermeasure
+- 대책, 보호 조치
+- A common countermeasure is to subtract the reward by a constant baseline "b".
+
+130. 
+
 
 
