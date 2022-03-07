@@ -599,6 +599,20 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 충분하다
 - Oftentimes users browsing videos on YouTube are looking for something specific so a generic summary might not suffice
 
-126. 
+126. penultimate
+- 끝에서 두 번째의 (=last but one)
+- The visual feature vectors are extracted from the penultimate layer of the GoogLeNet.
+
+127. rationale
+- (특정한 결정·행동 방침·신조 등의) 이유[근거] (=reason)
+- What is the rationale behind these new exams?
+(이들 새 시험을 뒷받침하는 근거는 무엇인가요?)
+
+128. conjecture
+- 추측(한 내용), (=guess), 추측하다
+- We can only conjecture about what was in the killer’s mind.
+(그 살인자의 마음속에 들어 있던 생각에 대해서는 추측만 할 수 있을 뿐이다.)
+
+129. 
 
 
