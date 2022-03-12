@@ -617,7 +617,13 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 대책, 보호 조치
 - A common countermeasure is to subtract the reward by a constant baseline "b".
 
-130. 
+130. confiscate
+- 몰수하다
+- Their land was confiscated after the war.
+(그들의 땅은 전쟁 후에 몰수되었다.)
+
+131.
+
 
 
 
