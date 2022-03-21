@@ -622,7 +622,21 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - Their land was confiscated after the war.
 (그들의 땅은 전쟁 후에 몰수되었다.)
 
-131.
+131. pragmatic
+- 실용적인 (=realistic)
+- a pragmatic approach to management problems
+(경영[관리]상의 문제들에 대한 실용적인 접근법들)
+
+132. curtail
+- 축소[삭감/단축]시키다
+- Spending on books has been severely curtailed.
+(도서 구입비가 대폭 삭감되었다.)
+
+133. wrestle with
+- ~을 해결하려고 애쓰다
+- Although early work wrestled with the complexity of natural language when using topic model and n-gram representations, ~
+
+134. 
 
 
 
