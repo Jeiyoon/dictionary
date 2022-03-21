@@ -634,9 +634,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 133. wrestle with
 - ~을 해결하려고 애쓰다
-- Although early work wrestled with the complexity of natural language when using topic model and n-gram representations, ~
+- Although early work wrestled with the complexity of natural language when using topic model and n-gram representations, -
 
-134. 
+134. daunt
+- 겁먹게[기죽게] 하다 (=intimidate)
+- She was a brave woman but she felt daunted by the task ahead.
+(그녀는 용감한 여성이었지만 앞에 놓인 과제에는 기가 죽는 기분이었다.)
+
+135. 
 
 
 
