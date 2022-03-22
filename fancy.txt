@@ -641,7 +641,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - She was a brave woman but she felt daunted by the task ahead.
 (그녀는 용감한 여성이었지만 앞에 놓인 과제에는 기가 죽는 기분이었다.)
 
-135. 
+135. diffusive
+- 잘 퍼지는, 보급되기 쉬운, 보급력 있는; 확산성의; 산만한, 장황한
+- An audio sample forms a negative pair which induces a diffusive effect in the embedding space.
+
+136. 
 
 
 
