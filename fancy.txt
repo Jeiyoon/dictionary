@@ -651,11 +651,13 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 137. impede
 - (진행을) 지연시키다[방해하다] (=hinder, hamper)
-- Interfaces that ignore a user's emotional state or fail to manifest that appropriate emotion can dramatically impede performance and risks being perceived as cold, socially inept, untrustworthy, and incompetent.
+- Work on the building was impeded by severe weather.
+(혹독한 날씨 때문에 그 건물 공사가 지연되었다.)
 
 138. inept
 - 솜씨 없는, 서투른
-- Interfaces that ignore a user's emotional state or fail to manifest that appropriate emotion can dramatically impede performance and risks being perceived as cold, socially inept, untrustworthy, and incompetent.
+- She was left feeling inept and inadequate.
+(그녀는 솜씨 없고 미숙하다는 느낌을 안게 되었다.)
 
 139. 
 
