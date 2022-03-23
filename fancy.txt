@@ -645,7 +645,19 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 잘 퍼지는, 보급되기 쉬운, 보급력 있는; 확산성의; 산만한, 장황한
 - An audio sample forms a negative pair which induces a diffusive effect in the embedding space.
 
-136. 
+136. manifest
+- (특히 감정·태도·특질을 분명히) 나타내다[드러내 보이다] (=demonstrate)
+- Interfaces that ignore a user's emotional state or fail to manifest that appropriate emotion can dramatically impede performance and risks being perceived as cold, socially inept, untrustworthy, and incompetent.
+
+137. impede
+- (진행을) 지연시키다[방해하다] (=hinder, hamper)
+- Interfaces that ignore a user's emotional state or fail to manifest that appropriate emotion can dramatically impede performance and risks being perceived as cold, socially inept, untrustworthy, and incompetent.
+
+138. inept
+- 솜씨 없는, 서투른
+- Interfaces that ignore a user's emotional state or fail to manifest that appropriate emotion can dramatically impede performance and risks being perceived as cold, socially inept, untrustworthy, and incompetent.
+
+139. 
 
 
 
