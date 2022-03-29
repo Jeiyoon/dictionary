@@ -659,7 +659,16 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - She was left feeling inept and inadequate.
 (그녀는 솜씨 없고 미숙하다는 느낌을 안게 되었다.)
 
-139. 
+139. footage
+- (특정한 사건을 담은) 장면[화면]
+- old film footage of the moon landing
+(달 착륙을 담은 옛날 자료 화면)
+
+140. delve
+= (무엇을 찾으려고 가방 등을) 뒤지다 (=dig)
+- This paper delves deeper into the current reference based evaluation framework using SumMe and TVSum datasets.
+
+141. 
 
 
 
