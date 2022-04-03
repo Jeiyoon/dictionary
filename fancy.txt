@@ -668,7 +668,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 = (무엇을 찾으려고 가방 등을) 뒤지다 (=dig)
 - This paper delves deeper into the current reference based evaluation framework using SumMe and TVSum datasets.
 
-141. 
+141. on-par
+- 같은, 동등한
+- The results were on-par with the state-of-the-art and sometimes surpassed even the human level scores.
+
+142.
 
 
 
