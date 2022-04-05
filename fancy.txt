@@ -672,7 +672,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 같은, 동등한
 - The results were on-par with the state-of-the-art and sometimes surpassed even the human level scores.
 
-142.
+142. concordant
+- [문어] 조화된, 화합하는, 일치하는(harmonious) ((with)); 협화음의
+- These constructions, in turn, demand concordant micro classifications. 
+(이들 구조물은 결국 합당한 미세한 구분이 필요하다.)
+
+143. 
 
 
 
