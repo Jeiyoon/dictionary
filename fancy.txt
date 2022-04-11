@@ -690,5 +690,10 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - He’s a versatile actor who has played a wide variety of parts.
 (그는 대단히 다양한 역할을 해 온 다재다능한 배우이다.)
 
+145. prepend
+- 접두어을 붙이다, 다른것에 표현이나 구문을 덧붙이다.
+- The [CLS] token is prepended to the whole sequence to aggregate information from both the text and visual domains.
+
+146. 
 
 
