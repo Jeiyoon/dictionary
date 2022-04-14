@@ -694,6 +694,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 접두어을 붙이다, 다른것에 표현이나 구문을 덧붙이다.
 - The [CLS] token is prepended to the whole sequence to aggregate information from both the text and visual domains.
 
-146. 
+146. deliverately
+- 고의로, 의도[계획]적으로 (=intentionally, on purpose)
+- She’s been deliberately ignoring him all day.
+(그녀는 하루 종일 의도적으로 그를 무시하고 있다.)
+- 신중하게, 찬찬히
+- He packed up his possessions slowly and deliberately.
+(그는 자기 소지품들을 천천히 신중하게 꾸렸다.)
+
+147.
 
 
