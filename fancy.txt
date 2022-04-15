@@ -702,6 +702,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - He packed up his possessions slowly and deliberately.
 (그는 자기 소지품들을 천천히 신중하게 꾸렸다.)
 
-147.
+147. glean
+- (정보·지식 등을 어렵게 여기저기서) 얻다[모으다]
+- These figures have been gleaned from a number of studies.
+(이들 수치는 몇몇 연구들로부터 얻은 것이다.)
+
+148.
 
 
