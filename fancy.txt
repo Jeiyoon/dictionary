@@ -712,6 +712,15 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - a seminal work/article/study
 (중대한 작업/글/연구)
 
-149.
+149. spatiotemporal
+- 공간과 시간상의, 시공(時空)의, 시공적인
+- Deep spatiotemporal models trained on videos still barely outperform the best hand-crafted features.
+
+150. laudable
+- (비록 성공하지 못한다 하더라도) 칭찬[감탄]할 만한 (=commendable)
+- a laudable aim/attempt
+(칭찬할 만한 목표/시도)
+
+151.
 
 
