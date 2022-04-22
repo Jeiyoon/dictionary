@@ -725,7 +725,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 거친 (↔smooth, soft)
 - The textual embedding is semantically coarse-grained.
 
-152.
+152. bespoke
+- (개인 주문에 따라) 맞춘 (=tailor-made)
+- We do so by introducing a bespoke multimodal architecture
+
+153. 
 
 
 
