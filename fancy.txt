@@ -721,6 +721,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - a laudable aim/attempt
 (칭찬할 만한 목표/시도)
 
-151.
+151. coarse
+- 거친 (↔smooth, soft)
+- The textual embedding is semantically coarse-grained.
+
+152.
+
 
 
