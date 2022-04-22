@@ -729,7 +729,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (개인 주문에 따라) 맞춘 (=tailor-made)
 - We do so by introducing a bespoke multimodal architecture
 
-153. 
+153. envisaged
+- 구상중에 있는
+- Multiple configurations of modality spaces with different inter-relations can be envisaged
+
+154. 
 
 
 
