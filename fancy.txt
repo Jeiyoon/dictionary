@@ -738,7 +738,17 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - They refused to comply with the UN resolution.
 (그들은 유엔 결의 사항에 따르기를 거부했다.)
 
-155.
+155. at arm's length
+- 팔을 뻗으면 닿는 거리에
+- 어느 정도 거리를 두고; 경원하여, 서먹서먹하게
+- (거래에서) 상호 대등한 입장에서, 공정하게
+- We show that different data modalities are embedded at arm's lengh in their shared representation in multi-modal models.
 
+156. aloofness
+- 무관심
+- It's the underlying aloofness and sneering that's beginning to grate. 
+(이는 근본적인 무관심과 그것이 거슬리기 시작하는 것을 비꼬는 것이다.)
+
+157.
 
 
