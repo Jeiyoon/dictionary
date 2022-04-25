@@ -733,7 +733,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 구상중에 있는
 - Multiple configurations of modality spaces with different inter-relations can be envisaged
 
-154. 
+154. comply
+- (법·명령 등에) 따르다[준수하다] (→compliance)
+- They refused to comply with the UN resolution.
+(그들은 유엔 결의 사항에 따르기를 거부했다.)
+
+155.
 
 
 
