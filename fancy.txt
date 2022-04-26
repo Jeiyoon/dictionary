@@ -768,5 +768,9 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - He asked to see the amended version.
 (그는 수정본을 보여 달라고 요청했다.)
 
-161.
+161. denigration
+- 명예 훼손
+- We follow the bias evaluation setup in CLIP paper to evaluate denigration harms
+
+162. 
 
