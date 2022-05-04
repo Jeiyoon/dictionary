@@ -772,5 +772,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 명예 훼손
 - We follow the bias evaluation setup in CLIP paper to evaluate denigration harms
 
-162. 
+162. rule out
+- 제외시키다, 배제하다; 불가능하게 하다. (=exclude, eliminate.)
+- First, it rules out the much larger other part of "big visual data"
+
+163. arguably
+- (충분한 근거를 갖고) 주장하건대, 거의 틀림없이(흔히 비교급이나 최상급 형용사 앞에 나옴)
+- He is arguably the best actor of his generation.
+(그가 자기 세대 중 가장 훌륭한 배우라는 것은 거의 틀림없다.)
+
+164. 
 
