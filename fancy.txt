@@ -604,10 +604,9 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 끝에서 두 번째의 (=last but one)
 - The visual feature vectors are extracted from the penultimate layer of the GoogLeNet.
 
-127. rationale
-- (특정한 결정·행동 방침·신조 등의) 이유[근거] (=reason)
-- What is the rationale behind these new exams?
-(이들 새 시험을 뒷받침하는 근거는 무엇인가요?)
+127. de novo
+- 처음부터, 새로(이)(anew), 다시(again)
+- In contrast, most current reinforcement learning (RL) agents approach each new task de novo.
 
 128. conjecture
 - 추측(한 내용), (=guess), 추측하다
@@ -782,7 +781,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - He is arguably the best actor of his generation.
 (그가 자기 세대 중 가장 훌륭한 배우라는 것은 거의 틀림없다.)
 
-164.  defacto
+164. defacto
 - (법적으로는 받아들여지지 않더라도) 사실상의[실질적인]
 - The general took de facto control of the country.
 (그 장군이 그 나라의 실질적인 통치권을 쥐고 있었다.)
