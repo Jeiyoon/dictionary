@@ -800,4 +800,9 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - The journey soon became tedious.
 - 그 여정은 곧 지루해졌다.
 
-168. 
+168. plural
+- (Abbr.) pl.. 복수형 (→singular)
+- The plural of ‘child’ is ‘children’.
+(child의 복수형은 children이다.)
+
+169.
