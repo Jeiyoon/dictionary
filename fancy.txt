@@ -827,6 +827,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (일정 시간 내에 해야 할) 처리량[처리 인원]
 - Optimize pipeline for high data-throughput and low latency
 
-173. 
+173. percolate
+- 스며들다
+- It had percolated through to us that something interesting was about to happen
+(뭔가 재미있는 일이 곧 일어날 거라는 생각이 우리들 사이에 퍼져 있었다.)
+
+174. 
 
 
