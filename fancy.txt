@@ -844,13 +844,23 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 분투하다
 - We encourage all members to strive for the highest standards.
 (우리는 모든 회원들에게 최고의 수준을 향해 분투하라고 격려합니다.)
-
+  
 177. utmost
 - 최고의, 최대한도
 - Our resources are strained to the utmost.
 (우리의 자원이 최대한도로 무리하게 이용되고 있다.)
 
-178. 
+178. viable
+- 실행 가능한, 성공할 수 있는 (=feasible), 생존 가능한
+- There is no viable alternative
+(실행 가능한 다른 대안이 없다.)
+
+179. substantial
+- (양·가치·중요성이) 상당한 (=considerable)
+- substantial sums of money
+(상당한 액수의 돈)
+
+180. 
 
 
 
