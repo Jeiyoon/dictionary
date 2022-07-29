@@ -449,7 +449,7 @@ by considering the homoscedastic uncertainty of each task.
 - We attempt to accumulate source-target pairs from grammatical errors and their human-curated corrections gleaned from the Wikipedia revision histories.
 
 96. curated
-- 만들다
+- 만들다, 전문적인 식견으로 엄선한
 - The model is trained and tested on a curated dataset derived from the CATH database.
 
 97. rectified
