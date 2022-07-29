@@ -860,7 +860,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - substantial sums of money
 (상당한 액수의 돈)
 
-180. 
+180. nominal
+- 명목상의, 이름뿐인
+- the nominal leader of the party
+(그 정당의 명목상 대표)
+
+181. 
 
 
 
