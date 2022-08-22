@@ -913,5 +913,34 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - Is the property or any part thereof used for commercial activity?
 (그 부동산이나 그것의 어느 부분이 상업 활동에 쓰입니까?)
 
-190. 
+190. procure
+- (특히 어렵게) 구하다[입수하다]
+- She managed to procure a ticket for the concert.
+(그녀는 간신히 그 콘서트 티켓 한 장을 구할 수 있었다.)
+
+191. curtail
+- 축소[삭감/단축]시키다
+- Spending on books has been severely curtailed.
+(도서 구입비가 대폭 삭감되었다.)
+
+192. out-sized
+- (보통 것보다) 대형의
+- infrequent occurrences that nevertheless have an out-sized adaverse impact on the human user?
+
+193. cornerstone
+- (건물, 어떤 일) 주춧돌[초석]
+- This study is the cornerstone of the whole research programme. 
+(이 연구는 그 연구 프로그램 전체의 초석이다.)
+
+194. stakeholder
+- 이해 당사자, 주주
+- The government has said it wants to create a stakeholder economy in which all members of society feel that they have an interest in its success.
+(정부는 사회의 모든 구성원들이 사회의 성공에 이해관계가 있다고 느끼는 주주 경제 단체(같은 사회)를 창출하고 싶다고 말해 왔다.)
+
+195. status quo 
+- 현재의 상황
+- conservatives who want to maintain the status quo
+(현상을 유지하고 싶어 하는 보수주의자들)
+
+196.
 
