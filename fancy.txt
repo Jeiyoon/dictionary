@@ -1160,5 +1160,10 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - They were planning to solicit funds from a number of organizations.
 (그들은 여러 기관들로부터 기금을 얻으려고 계획하고 있었다.)
 
-238. 
+238. downside
+- 불리한[덜 긍정적인] 면 (↔upside)
+- The main downside is the satellites are heavier and bulkier.
+(이것의 치명적인 단점은 위성이 무겁고 부피가 크다는 것이다.)
+
+239.
 
