@@ -1174,7 +1174,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - the world’s foremost authority on the subject
 (그 주제에 대한 세계 최고 권위자)
 
-241. 
+241. agglomerative
+- 덩어리가 되는, 응집하는
+- hierarchical agglomerative clustering on top of a sparse pairwise similarity matrix obtained by zeroing-out similarity scores lower than a chosen threshold value.
+
+242.
 
 
 
