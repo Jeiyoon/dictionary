@@ -1178,7 +1178,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 덩어리가 되는, 응집하는
 - hierarchical agglomerative clustering on top of a sparse pairwise similarity matrix obtained by zeroing-out similarity scores lower than a chosen threshold value.
 
-242.
+242. barycenter
+- (물리·수학) 무게중심
+- Due to non-negative Alexandrov curvature of the Wasserstein space, barycenters suffer from regularity and non-robustness issues.
+
+243. peculiar
+- 
 
 
 
