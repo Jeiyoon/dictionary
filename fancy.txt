@@ -1194,7 +1194,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - These small particles agglomerate together to form larger clusters
 (이 작은 입자들이 함께 뭉쳐 더 큰 덩어리를 만든다.)
 
-245.
+245. extremum
+- 극(極)값
+- This pdf is used to determine the extrema.
+
+246.
 
 
 
