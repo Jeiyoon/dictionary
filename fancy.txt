@@ -1183,7 +1183,19 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - Due to non-negative Alexandrov curvature of the Wasserstein space, barycenters suffer from regularity and non-robustness issues.
 
 243. peculiar
-- 
+- (특히 불쾌하거나 걱정스러울 정도로) 이상한[기이한] (→odd), (=odd)
+- a peculiar smell / taste
+(상한 냄새/맛)
+- (~에) 특유한[고유한/독특한]
+- a humour that is peculiar to American sitcoms
+(미국 시트콤 특유의 유머)
+
+244. agglomerate
+- 뭉치다, 한 덩어리가 되다; 합치다
+- These small particles agglomerate together to form larger clusters
+(이 작은 입자들이 함께 뭉쳐 더 큰 덩어리를 만든다.)
+
+245.
 
 
 
