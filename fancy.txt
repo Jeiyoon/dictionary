@@ -1198,7 +1198,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 극(極)값
 - This pdf is used to determine the extrema.
 
-246.  
+246. pitfalls
 - (눈에 잘 안 띄는) 위험[곤란]
 - the potential pitfalls of buying a house
 (주택 구입상의 잠재적인 위험)
@@ -1209,12 +1209,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 (보수주의와 자유[진보]주의의 차이는 어디에 있는가?)
 
 248. dichotomy
-- 양분(兩分), 이분(二分)
+- 양분(兩分), 이분(二分)              
 - I'm postimistic and wary of dichotomy
 (나는 비관적이면서도 낙관적인 사람이며, 이분법을 경계한다.)
 
 249. 
-
+ 
 
 
 
