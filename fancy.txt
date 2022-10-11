@@ -1191,19 +1191,29 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 244. agglomerate
 - 뭉치다, 한 덩어리가 되다; 합치다
-- These small particles agglomerate together to form larger clusters
+- These small particles agglomerate together to form larger clusters       
 (이 작은 입자들이 함께 뭉쳐 더 큰 덩어리를 만든다.)
 
 245. extremum
 - 극(極)값
 - This pdf is used to determine the extrema.
 
-246. pitfall
+246.  
 - (눈에 잘 안 띄는) 위험[곤란]
 - the potential pitfalls of buying a house
 (주택 구입상의 잠재적인 위험)
 
-247. 
+247. wherein
+- 어디에(서), 어떤 점에(서); 거기에(서), 그 점에(서)
+- Wherein lies the difference between conservatism and liberalism?
+(보수주의와 자유[진보]주의의 차이는 어디에 있는가?)
+
+248. dichotomy
+- 양분(兩分), 이분(二分)
+- I'm postimistic and wary of dichotomy
+(나는 비관적이면서도 낙관적인 사람이며, 이분법을 경계한다.)
+
+249. 
 
 
 
