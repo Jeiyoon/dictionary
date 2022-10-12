@@ -1213,7 +1213,20 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - I'm postimistic and wary of dichotomy
 (나는 비관적이면서도 낙관적인 사람이며, 이분법을 경계한다.)
 
-249. 
+249. combinatorial
+- 결합의, 조합의
+- Matrix multiplication algorithms have been discovered by attacking this tensor decomposition problem using human search, continuous optimization, and combinatorial search.
+
+250. fidelity
+- 충실함, 정확도, 충실도
+- the fidelity of the translation to the original text
+(원본 텍스트에 대한 번역본의 충실도[정확도])
+
+251. infinitesimal
+- 극미한, 극소의 (=tiny)
+- infinitesimal distance
+
+252.
  
 
 
