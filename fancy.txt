@@ -1231,7 +1231,19 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - He emanates power and confidence
 (그에게서는 힘과 자신감이 뿜어져 나온다.)
 
-253. 
+253. MoCo unsupervised pre-training can surpass its ImageNet supervised counterpart, in some cases by nontrivial margins.
+
+254.preceding
+- [A] [보통 the ~] (시간·장소의) 이전의(previous), 앞선, 선행하는; 바로 앞의; 전술의, 상기의
+- the preceding year
+(그 전해)
+
+255.informal
+- 격식에 얽매이지 않는, 허물없는, 편안한, 일상적인
+- Discussions are held on an informal basis within the department. 
+(논의는 부서 내에서 격식에 얽매이지 않는 것을 원칙으로 이뤄진다.)
+
+256. 
 
 
 
