@@ -1260,7 +1260,30 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - These paintings will form the nucleus of a new collection.
 (이 그림들이 새 수집품들의 중심을 형성할 것이다.)
 
-259. 
+259. strikethrough
+- 취소선
+
+260. mix up(상품·장비 등을) 제작[조립]하다 (=manufacture)
+- (특히 실수로 인한) 혼동 (=muddle)
+- There has been a mix-up over the dates
+(날짜를 두고 혼동이 있었다.)
+
+261. fabricate
+- (거짓 정보를) 날조하다[조작하다] (=make up)
+- The evidence was totally fabricated.
+(그 증거는 완전히 조작된 것이었다.)
+- (상품·장비 등을) 제작[조립]하다 (=manufacture)
+
+262. provision
+- 공급, 제공
+- housing provision
+(주택 공급)
+- 대비, 준비
+- He had already made provisions for his wife and children before the accident.
+(그는 그 사고가 있기 전에 이미 아내와 자녀들을 위한 대비를 해 놓은 상태였다.)
+
+263. 
+
 
 
 
