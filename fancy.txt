@@ -1294,7 +1294,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 265. the Higher the better, the lower the better.
 
-266. 
+266. prepend
+- to add something to the beginning of something else, especially a piece of data (= information) to the beginning of a computer instruction
+- If the remote machine is Windows based, prepend the address with smb://.
+
+277. 
 
 
 
