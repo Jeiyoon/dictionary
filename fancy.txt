@@ -667,7 +667,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 = (무엇을 찾으려고 가방 등을) 뒤지다 (=dig)
 - This paper delves deeper into the current reference based evaluation framework using SumMe and TVSum datasets.
 
-141. on-par
+141. on-par (on par)
 - 같은, 동등한
 - The results were on-par with the state-of-the-art and sometimes surpassed even the human level scores.
 
@@ -692,6 +692,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 145. prepend
 - 접두어을 붙이다, 다른것에 표현이나 구문을 덧붙이다.
 - The [CLS] token is prepended to the whole sequence to aggregate information from both the text and visual domains.
+- If the remote machine is Windows based, prepend the address with smb://.
 
 146. deliverately
 - 고의로, 의도[계획]적으로 (=intentionally, on purpose)
