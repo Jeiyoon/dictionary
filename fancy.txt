@@ -1362,7 +1362,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (흔히 처벌로) 강등[좌천]시키다 (↔promote)
 - A policy gradient reinforcement learning approach for demoting immoral generations
 
-289. 
+289. co-opt
+- (모든 다른 구성원들의 동의로 위원 등을) 선임하다, (흔히 가담을 원치 않는 사람을) 끌어들이다
+- She was co-opted onto the board.
+(그녀는 이사진에 선임되었다.)
+
+290.
 
 
 
