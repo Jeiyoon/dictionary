@@ -1354,7 +1354,16 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - a taxing job
 (아주 힘든 일)
 
-287. 
+287. taxonomy
+- 분류학, 분류, (특정) 분류 체계
+- These results indicate the internal consistency and utility of our attribute taxonomy.
+
+288. demote
+- (흔히 처벌로) 강등[좌천]시키다 (↔promote)
+- A policy gradient reinforcement learning approach for demoting immoral generations
+
+289. 
+
 
 
 
