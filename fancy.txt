@@ -1367,7 +1367,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - She was co-opted onto the board.
 (그녀는 이사진에 선임되었다.)
 
-290.
+290. Compared to [73], we use significantly large models, ~
+
+291. bid
+- (특히 경매에서) 값을 부르다[제의하다], 입찰에 응하다, 응찰하다 (=tender)
+- I bid £2,000 for the painting.
+(나는 그 그림 값으로 2 000파운드를 불렀다.)
+
+292. 
 
 
 
