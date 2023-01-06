@@ -1366,6 +1366,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (모든 다른 구성원들의 동의로 위원 등을) 선임하다, (흔히 가담을 원치 않는 사람을) 끌어들이다
 - She was co-opted onto the board.
 (그녀는 이사진에 선임되었다.)
+- We co-opt this pre-trained LM for use as a chatbot using the following prompt.
 
 290. Compared to [73], we use significantly large models, ~
 
@@ -1379,7 +1380,15 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - I told him I wasn’t interested, but he wasn’t deterred.
 (내가 그에게 관심 없다고 했지만 그는 단념하지 않았다.)
 
-293. 
+293. confound
+- 어리둥절[당혹]하게 만들다 (=baffle)
+- The sudden rise in share prices has confounded economists.
+(갑작스런 주가 상승에 경제 전문가들이 어리둥절해 하고 있다.)
+- …이 틀렸음을 입증하다, (적을) 물리치다
+- to confound expectations
+(예상이 틀렸음을 입증하다)
+
+294. 
 
 
 
