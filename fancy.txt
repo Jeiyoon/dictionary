@@ -1388,7 +1388,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - to confound expectations
 (예상이 틀렸음을 입증하다)
 
-294. 
+294. albeit
+- 비록 …일지라도
+- He finally agreed, albeit reluctantly, to help us
+(비록 마지못해서였긴 했지만 마침내 그가 우리를 돕겠다고 승낙했다.)
+
+295. 
 
 
 
