@@ -1403,8 +1403,30 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - No one was prepared to forgo their lunch hour to attend the meeting.
 (아무도 그 회의에 참석하기 위해 기꺼이 점심시간을 포기하려고는 하지 않았다.)
 
-297. 
+297. avert
+- 방지하다, 피하다
+- A disaster was narrowly averted.
+(재난을 가까스로 방지했다)
+- (~에서) 눈[얼굴]을 돌리다[외면하다]
+- She averted her eyes from the terrible scene in front of her.
+(그녀는 눈앞에 펼쳐진 끔찍한 장면에서 눈을 돌렸다.)
 
+298. encompass
+- (많은 것을) 포함[망라]하다, 아우르다
+- The job encompasses a wide range of responsibilities.
+(그 일자리에서는 다양한 책무를 맡게 된다.)
+- 에워[둘러]싸다
+- The fog soon encompassed the whole valley.
+- 안개가 곧 계곡 전체를 에워쌌다.
+
+299. Output from our 175B InstructGPT are preferred to 175B GPT-3 outputs 85% (+/- 3%) of the time.
+
+300. nascent
+- ADJECTIVE 격식 발생기의, 초기의
+- A nascent party was formed by politicians who had left the ruling party. 
+(신생 정당은 여당을 떠난 정치인들로 구성되었다.)
+
+301. 
 
 
 
