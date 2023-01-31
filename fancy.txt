@@ -1426,7 +1426,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - A nascent party was formed by politicians who had left the ruling party. 
 (신생 정당은 여당을 떠난 정치인들로 구성되었다.)
 
-301. 
+301. overarching
+- (많은 것에 관련되므로) 대단히 중요한
+- The doctor presented an overarching view of her death
+(의사는 그녀의 죽음에 대해 지배적인 의견을 내놓았다.)
+
+302. 
 
 
 
