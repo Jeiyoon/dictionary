@@ -1436,10 +1436,21 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - demographic changes/trends/factors
 (인구 통계학적 변동/경향/요인)
 
-303.  
+303. err
+- 실수를 범하다
+- In this case, our PPO models err on the side of being truthful and uninformative rather than confidently saying a falsehood
 
+304. inflate 
+- (공기나 가스로) 부풀리다[부풀다], (사실과 다르게) 부풀리다[과장하다], (가격을[이]) 올리다[오르다] (→deflate, reflate)
+- Inflate your life jacket by pulling sharply on the cord.
+(끈을 세게 잡아 당겨 구명조끼를 부풀게 하시오.)
 
+305. propensity
+- (특정한 행동을 하는) 경향[성향] (=inclination)
+- He showed a propensity for violence.
+(그는 폭력적인 성향을 보였다.)
 
+306. 
 
 
 
