@@ -1450,8 +1450,34 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - He showed a propensity for violence.
 (그는 폭력적인 성향을 보였다.)
 
-306. 
+306. Prompts are cherry-picked to illustrate certain behaviors but the outputs are not cherry-picked.
 
+307. hedge
+- 생울타리, 산울타리, (특히 금전 손실을 막기 위한) 대비책, 얼버무리다
+- Just answer ‘yes’ or ‘no’—and stop hedging.
+(그냥 그런지 아닌지만 답해, 얼버무리지 말고.)
+
+308. humility
+- 겸손
+- Her first defeat was an early lesson in humility.
+(그녀의 첫 패배는 일찍이 주어진 겸손에 관한 교훈이었다.)
+
+309. humiliation
+- 굴욕, 모욕
+- She suffered the humiliation of being criticized in public.
+(그녀는 공개적으로 비판을 받는 굴욕을 당했다.)
+
+310. endorse
+- (공개적으로) 지지하다
+- I wholeheartedly endorse his remarks.
+(저는 진심으로 그의 발언을 지지합니다.)
+
+311. disproportionately
+- ADVERB 불균형적으로
+- The lower-paid spend a disproportionately large amount of their earnings on food.
+(저소득층은 소득 중 균형이 안 맞을 정도로 많은 액수를 식비로 쓴다.)
+
+312. 
 
 
 
