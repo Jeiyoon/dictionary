@@ -1477,8 +1477,15 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - The lower-paid spend a disproportionately large amount of their earnings on food.
 (저소득층은 소득 중 균형이 안 맞을 정도로 많은 액수를 식비로 쓴다.)
 
-312. 
+312. panacea
+- (비유적인 의미의) 만병통치약
+- Alignment techniques are not a panacea for resolving safety issues associated with large language model.
 
+313. craft
+- (수)공예 (→arts and crafts), (특정 활동에 필요한 모든) 기술[기교], (특히 손으로) 공예품을 만들다, 공들여 만들다 (→handcrafted), (=fashion)
+- We crafted questions that some humans would answer falsely due to a false belief or misconception.
+
+314. 
 
 
 
