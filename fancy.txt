@@ -1485,7 +1485,16 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (수)공예 (→arts and crafts), (특정 활동에 필요한 모든) 기술[기교], (특히 손으로) 공예품을 만들다, 공들여 만들다 (→handcrafted), (=fashion)
 - We crafted questions that some humans would answer falsely due to a false belief or misconception.
 
-314. 
+314. tautology
+- 유의어(類義語) 반복(불필요하게 같은 뜻의 말을 표현만 달리 하여 되풀이하는 것)
+- Around 19% of answers were tautologies, contradictions or nonsense and so there is no source that is appropriate.
+
+315. tease apart
+- 분리하다
+- We ran experiments aimed to tease apart these explanations.
+- It's a case of trying to tease apart all those variations and see what might be causing what.
+
+316.
 
 
 
