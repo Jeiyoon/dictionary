@@ -1494,7 +1494,24 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - We ran experiments aimed to tease apart these explanations.
 - It's a case of trying to tease apart all those variations and see what might be causing what.
 
-316.
+316. LFQA systems have the potential to become one of the main ways people learn about the world, but currently lag behind human performance.
+
+317. Instead of trying to improve these ingredients, we focus on combining them using more faithful training objectives.
+
+318. We make two key contributions: ~
+
+319. Guidance from humans is central to our approach.
+
+320. phrase
+- 구절, 관용구 (→catchphrase), (말글을 특정한 방식으로) 표현하다
+- We prepended "Explain: " to questions that were not phrased as actual questions.
+
+321. miscellaneous
+- 여러 가지 종류의, 이것저것 다양한 (=diverse, various)
+- a sale of miscellaneous household items
+(여러 종류의 가정용품 판매)
+
+322. 
 
 
 
