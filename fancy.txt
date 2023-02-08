@@ -1513,7 +1513,27 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 322. Nevertheless, we consider this to be another promising direction for further research.
 
-323.
+323. a factor of 2
+- A factor of two means double the price. "A is bigger than B by a factor of two" means that A is two times as large as B.
+- "A is bigger than B by a factor of ten" means that A is ten times as big as B
+
+324. inclusive
+- (가격에) 일체의 경비가 포함된[…이 포함된] (↔exclusive)
+- The fully inclusive fare for the trip is £52.
+(일체의 경비가 다 포함된 그 여행비는 52파운드입니다.)
+- (언급된 날짜·월·수 등을 다 포함하여) …부터 …까지
+- We are offering free holidays for children aged two to eleven inclusive.
+(2세부터 11세까지의 아동에 대한 휴가 비용은 무료로 해 드립니다.)
+- 폭넓은, 포괄적인 (↔exclusive)
+- The party must adopt more inclusive strategies and a broader vision.
+(이 당은 더 포괄적인 전략과 더 폭넓은 전망을 채택해야 합니다.)
+
+325. 
+
+
+
+
+
 
 
 
