@@ -1528,7 +1528,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - The party must adopt more inclusive strategies and a broader vision.
 (이 당은 더 포괄적인 전략과 더 폭넓은 전망을 채택해야 합니다.)
 
-325. 
+325. convolve
+- 감다, 감기다, 휘감다, 둘둘 말다[감다], 빙빙 돌다
+- A dynamic convolution kernel is applied to convolve with the nearby tokens to generate new representation embedding.
+
+326.
 
 
 
