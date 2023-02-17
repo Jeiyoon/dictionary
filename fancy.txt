@@ -1520,7 +1520,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 324. inclusive
 - (가격에) 일체의 경비가 포함된[…이 포함된] (↔exclusive)
 - The fully inclusive fare for the trip is £52.
-(일체의 경비가 다 포함된 그 여행비는 52파운드입니다.)
+(일체의 경비가 다 포함된 그 여행비는 52파운드입니다.)w
 - (언급된 날짜·월·수 등을 다 포함하여) …부터 …까지
 - We are offering free holidays for children aged two to eleven inclusive.
 (2세부터 11세까지의 아동에 대한 휴가 비용은 무료로 해 드립니다.)
@@ -1537,7 +1537,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - I go over proposals and costing two or three times. As the old adage goes-measure twice, cut once. 
 (‘두 번 재고 한번에 자르라'는 옛 속담처럼 기획서나 가격책정 건은 두세 번씩 검토합니다.)
 
-327.
+327. near-chance (near chance)
+- 우연에 가까운
+- We originally trained two additional RMs smaller than 3M parameters, which achieved near-chance accuracy and were off-trend, and so were excluded.
+
+328.
 
 
 
