@@ -1532,8 +1532,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 감다, 감기다, 휘감다, 둘둘 말다[감다], 빙빙 돌다
 - A dynamic convolution kernel is applied to convolve with the nearby tokens to generate new representation embedding.
 
-326.
+326. adage
+- 속담, 격언
+- I go over proposals and costing two or three times. As the old adage goes-measure twice, cut once. 
+(‘두 번 재고 한번에 자르라'는 옛 속담처럼 기획서나 가격책정 건은 두세 번씩 검토합니다.)
 
+327.
 
 
 
