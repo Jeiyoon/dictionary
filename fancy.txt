@@ -1541,10 +1541,20 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 우연에 가까운
 - We originally trained two additional RMs smaller than 3M parameters, which achieved near-chance accuracy and were off-trend, and so were excluded.
 
-328.
+328. straddle
+- (양쪽으로) 다리를 벌리고 올라앉다[서다]
+- He swung his leg over the motorcycle, straddling it easily.
+(그가 (한 쪽) 다리를 휙 오토바이 위로 넘겨 수월하게 (다리를 벌리고) 올라앉았다.)
+- (강·도로·땅을[의]) 가로지르다[양쪽에 걸치다]
+- The mountains straddle the French-Swiss border.
+(그 산맥은 프랑스-스위스 국경을 가로지르고 있다.)
+- (여러 시간대·활동·집단에[을]) 걸치다[아우르다]
+- a writer who straddles two cultures
+- 두 문화를 아우르는 작가
 
+329. ~ , contrary to intuition, ~
 
-
+330. 
 
 
 
