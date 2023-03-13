@@ -1554,7 +1554,13 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 329. ~ , contrary to intuition, ~
 
-330. 
+330. resort to
+- ~에 의지하다
+- It is possible to train state-of-the-art models using publicly available datasets exclusively.
+
+331. We evaluate in the zero-shot setting as done in language modeling community.
+
+332. 
 
 
 
