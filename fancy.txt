@@ -1560,7 +1560,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 331. We evaluate in the zero-shot setting as done in language modeling community.
 
-332. 
+332. hallucinate
+- 환각을 느끼다
+- our model is likely to hallucinate incorrect answer.
+
+333. 
 
 
 
