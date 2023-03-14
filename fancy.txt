@@ -1564,7 +1564,15 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 환각을 느끼다
 - our model is likely to hallucinate incorrect answer.
 
-333. 
+333. dispatcher
+- (열차·버스·비행기 등이 정시 출발하도록 관리하는) 운행 관리원[조차원]
+- During the above pipeline, Prompt Manager serves as a dispatcher for ChatGPT by providing the type of visual formats.
+
+334. cumbersome
+- 크고 무거운, 다루기 힘든 (=bulky), 복잡하고 느린, 번거로운, 길고 복잡한
+- the well-designed instructions and cumbersome conversions are required to connect different modalities.
+
+335. 
 
 
 
