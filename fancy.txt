@@ -1572,7 +1572,9 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 크고 무거운, 다루기 힘든 (=bulky), 복잡하고 느린, 번거로운, 길고 복잡한
 - the well-designed instructions and cumbersome conversions are required to connect different modalities.
 
-335. 
+335. Existing study have divided such a technique into two categories: ~
+
+336.  
 
 
 
