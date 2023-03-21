@@ -1574,7 +1574,22 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 335. Existing study have divided such a technique into two categories: ~
 
-336.  
+336. preferentially
+- 우선적으로
+- The prompt we construct will guide ChatGPT to leverage VFMs preferentially instead of generating results based on conversation history.
+
+337. tamper
+- 쓸데없는 참견을 하다, 간섭하다 ((with))
+- 손대다, (원문의 글귀 등을) 함부로 변경하다 ((with))
+- 뇌물을 주다, 매수하다; 부정 수단을 쓰다 ((with))
+- The LLMs are not permitted to arbitrarily tamper with or speculate about the user's intention without basis.
+
+338. vicissitude
+- 우여곡절
+- An old man sitting with a lot of vicissitudes in his face
+
+339.
+
 
 
 
