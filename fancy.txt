@@ -1578,7 +1578,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 우선적으로
 - The prompt we construct will guide ChatGPT to leverage VFMs preferentially instead of generating results based on conversation history.
 
-337. tamper
+337. tamper 
 - 쓸데없는 참견을 하다, 간섭하다 ((with))
 - 손대다, (원문의 글귀 등을) 함부로 변경하다 ((with))
 - 뇌물을 주다, 매수하다; 부정 수단을 쓰다 ((with))
@@ -1588,9 +1588,16 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 우여곡절
 - An old man sitting with a lot of vicissitudes in his face
 
-339.
+339. heterogeneity
+- 이종(異種), 이류(異類), 이질성(異質性), 불균질(不均質); 이류 혼교(混交); 이질 성분
+- The heterogeneity in their price and performance makes it challenging for users to decide which API or combination of APIs to use for their own data and budget.
 
+340. frugal
+- 절약하는 (↔extravagant)
+- 소박한, 간소한 (=meagre)
+- FrugalML: How to use ML prediction APIs more accurately and cheaply
 
+341. 
 
 
 
