@@ -1597,7 +1597,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 소박한, 간소한 (=meagre)
 - FrugalML: How to use ML prediction APIs more accurately and cheaply
 
-341. 
+341. superfluous
+- (더 이상) 필요치 않은[불필요한] (=unnecessary)
+- She gave him a look that made words superfluous.
+(그녀가 그에게 말이 필요 없는 눈길을 보냈다.)
+
+342. 
 
 
 
