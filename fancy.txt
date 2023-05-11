@@ -1606,7 +1606,18 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (…의) 부족[결핍] (=scarcity)
 - There is currently a dearth of comprehensive study exploring its potential in the area of GEC.
 
-343.
+343. propensity
+- (특정한 행동을 하는) 경향[성향] (=inclination)
+- Chatgpt has a higher propensity for error detection and self-correction.
+
+344. simulacra (simulacrum)
+- [명사][격식] 복제품, 모조품 (=copy)
+- Generative Agents: Interactive Simulacra of Human Behavior
+
+345. 
+
+
+
 
 
 
