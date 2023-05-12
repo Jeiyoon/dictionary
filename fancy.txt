@@ -1614,7 +1614,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - [명사][격식] 복제품, 모조품 (=copy)
 - Generative Agents: Interactive Simulacra of Human Behavior
 
-345. 
+345. populate
+- (어떤 지역의 주민으로) 살다, 거주하다 (=inhabit), (어떤 지역으로 사람·동물들을[이]) 이주시키다[하다]
+- We instantiate generative agents to populate an interactive sandbox environment inspired by the Sims, where end users can interact with a small town of twenty five agents using natural language.
+
+346.
 
 
 
