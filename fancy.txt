@@ -1630,7 +1630,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - [동사] 장식하다, 꾸미다 (=decorate)
 - The most common errors arose when the agent failed to retrieve relevant memories, fabricated embellishments to the agent's memory, or inherited overly formal speech or behavior from the language model.
 
-349. 
+349. dictate
+- 받아쓰게 하다, 구술하다
+- When the model dictates that the agent will move to a location, we calculate a walking path to the destination in the Smallville environment and the agent begins moving.
+
+350.
 
 
 
