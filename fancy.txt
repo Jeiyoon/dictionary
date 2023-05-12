@@ -1618,7 +1618,33 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (어떤 지역의 주민으로) 살다, 거주하다 (=inhabit), (어떤 지역으로 사람·동물들을[이]) 이주시키다[하다]
 - We instantiate generative agents to populate an interactive sandbox environment inspired by the Sims, where end users can interact with a small town of twenty five agents using natural language.
 
-346.
+346. emergent
+- [형용사] 신생의, 신흥의
+- They produce believable simulacra of both individual and emergent group behavior.
+
+347. laden
+- [형용사] (~을) 잔뜩 실은[든/진] (→unladen), [형용사] (형용사를 형성하여) …이 가득한
+- A user could safely rehearse difficult, conflict-laden conversations.
+
+348. embellish
+- [동사] 장식하다, 꾸미다 (=decorate)
+- The most common errors arose when the agent failed to retrieve relevant memories, fabricated embellishments to the agent's memory, or inherited overly formal speech or behavior from the language model.
+
+349. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
