@@ -1636,6 +1636,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 350. accrue
 - [동사] 누적되다, 축적되다, [동사] (금전·부채를) 누적하다[축적하다] (=accumulate)
+- Isabella, who works at a coffee shop, might accrue the following observations over time: ~
+
+351. mundane
+- 재미없는, 일상적인 (=dull, ordinary)
+- For instance, a mundane event such as eating breakfast in one's room would yield a low importance score, ~
+
+352. poignant
+- 가슴 아픈[저미는] (=moving)
 - 
 
 
