@@ -1634,8 +1634,9 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 받아쓰게 하다, 구술하다
 - When the model dictates that the agent will move to a location, we calculate a walking path to the destination in the Smallville environment and the agent begins moving.
 
-350.
-
+350. accrue
+- [동사] 누적되다, 축적되다, [동사] (금전·부채를) 누적하다[축적하다] (=accumulate)
+- 
 
 
 
