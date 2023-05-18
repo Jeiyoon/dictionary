@@ -1644,12 +1644,21 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 352. poignant
 - 가슴 아픈[저미는] (=moving)
-- 
+- On the scale of 1 to 10, where 1 is purely mundane (e.g., brushing teeth, making bed) and 10 is extremely poignant (e.g., a break up, college acceptance), rate the likely poignancy of the following piece of memory.
 
 353. gentrification
 - (주택가의) 고급 주택화
-- 
+- Klaus Mueller is reading a book on gentrification
 
+354. prolific
+- 다작하는, 다산하는, 열매를 많이 맺는
+- a prolific author
+
+355. toss-up
+- 반반(의 가능성)
+- Conditions with the same rating should roughly be a toss-up, with each winning half of the comparisons between the two conditinos.
+
+356. 
 
 
 
