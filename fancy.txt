@@ -1658,7 +1658,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 반반(의 가능성)
 - Conditions with the same rating should roughly be a toss-up, with each winning half of the comparisons between the two conditinos.
 
-356. 
+356. at times
+- 가끔은[때로는]
+- At times, the agents hallucinated embellishments to their knowledge.
+
+357. 
 
 
 
