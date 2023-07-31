@@ -1663,10 +1663,25 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 가끔은[때로는]
 - At times, the agents hallucinated embellishments to their knowledge.
 
-357. 
+357. dyadic
+- 2개의 부분의[으로 구성되는], [화학] 2가 원소의
+- Multimodal feature selection for detecting mothers’ depression in dyadic interactions with their adolescent offspring
 
+358. aloud
+- (다른 사람들이 들을 수 있게) 소리 내어, 큰소리로, 크게
+- Most of this work has focused on a small number of constrained settings, such as reading aloud.
 
+359. sheer
+- (크기정도양을 강조하여) 순전한, (다른 것이 섞이지 않은) 순수한[순전한] (=utter)
+- Due to sheer number of features involved in computational approaches to depression detection and the limited data typically available, models are at risk for overfitting.
 
+360. afford
+- (…을 살·할·금전적·시간적) 여유[형편]가 되다
+- …하면 안 되다
+- 제공하다
+- To afford interpretability and because the number of participants was modest (n=152), a priori features rather than learned ones were used.
+
+361. 
 
 
 
