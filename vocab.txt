@@ -1681,9 +1681,26 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 제공하다
 - To afford interpretability and because the number of participants was modest (n=152), a priori features rather than learned ones were used.
 
-361. 
+361. efficacy
+- Explore the efficacy of a variety of unimodal and multimodal features in depression detection.
 
+362. consolidate
+- (세력 있는 위치·성공의 가능성 등을) 굳히다[강화하다], 통합하다[되다]
+- Unlike studies where video-level features were consolidated through clustering based approaches or summary statistics, they performed sentence-level depression prediction.
 
+363. symptomatology
+- 증상학, 동반증상, 증후학(症候學). 1. 증상을 취급하는 의학의 한 분야. 증상의 계통적 논의. 2. 총체증상(總體症狀). 어떤 질환의 합병증상(合倂症狀).
+- a non-depressed group selected for no history of treatment for depression, no or low levels of current depressive symptomatology, and no current mental health treatment for any mental health disorder.
+
+364. abstinence 
+- (도덕·종교·건강상의 이유로 인한 음식·술·섹스의) 자제, 금욕 (→abstain)
+- e.g., substance use that would render abstinence for the assessment difficult to tolerate.
+
+365. aversion
+- 아주 싫어함, 혐오감
+- These were then used to define head aversion.
+
+366. 
 
 
 
