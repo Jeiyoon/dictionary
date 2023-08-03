@@ -1682,6 +1682,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - To afford interpretability and because the number of participants was modest (n=152), a priori features rather than learned ones were used.
 
 361. efficacy
+- (특히 약이나 치료의) 효험 (=effectiveness)
 - Explore the efficacy of a variety of unimodal and multimodal features in depression detection.
 
 362. consolidate
