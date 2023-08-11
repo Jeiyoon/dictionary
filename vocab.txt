@@ -1709,7 +1709,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 도래, 출현
 - the advent of new technology
 
-368.
+368. synchronous
+- 동시 발생[존재]하는
+- These methods obtain good performance, but nevertheless assume that social media posts are synchronous and uploaded at regular intervals.
+
+369. 
+- 
 
 
 
