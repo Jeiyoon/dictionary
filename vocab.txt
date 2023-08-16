@@ -1713,9 +1713,19 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 동시 발생[존재]하는
 - These methods obtain good performance, but nevertheless assume that social media posts are synchronous and uploaded at regular intervals.
 
-369. 
-- 
+369. harness
+- 마구(馬具),  (사람 몸에 매는 마구 비슷한) 벨트[용구], 장치, 설비; 이용하다, 활용하다
+- None have yet harnessed the wealth of visual data posted on social media.
 
+370. induce
+- 설득하다, 유도하다, 유발[초래]하다
+- Assessing whether specific descriptions induce more failures than expeced
+
+371. interrogate
+- 심문[추궁]하다, 정보를 얻다
+- We use this pipeline to interrogate classifiers trained on IMAGENET to find specific cases and discover spurious correlations
+
+372. 
 
 
 
