@@ -1751,10 +1751,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 378. repurpose
 - 다른 목적[용도]에 맞게 만들다[고치다]
-- 
+- Our models forecasted drug repurposing avenues and potential side effects, providing a systematic protocol AI-driven framework for anti-cocaine addiction drug development
 
-379. elucidate
+379. elucidate (elucidation / e lucid ation)
 - (더 자세히) 설명하다 (=explain)
+- lucid: 명쾌한, 명료한 (=clear), (특히 질병·의식 혼미 상태 중이거나 후에) 의식이 또렷한
 - We investigate the utility of ChatGPT as a virtual assistant that offers insightful concepts, elucidates mathematical and statistical methodologies, and provides coding support.
 
 380. imperative
@@ -1777,8 +1778,25 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 능숙한 (=skilful)
 - Moreover, the second persona of GPT-4 will act as an adept browser, facilitating our comprehension of various mathematical and statistical principles.
 
-385. 
+385. cater 
+- (사업으로 행사에) 음식을 공급하다
+- Improving its ability to provide up-to-date information and cater to queries across various platform
 
+386. vigilant
+- 바짝 경계하는, 조금도 방심하지 않는 (=alert, watchful)
+- Through this vigilant integration of the computational capabilities of GPT-4 with expertise of researchers, we ~
+
+387. personification
+- 의인화, 의인화된 것, (특정 자질·특성의) 화신 (=epitome)
+- Personification refers to the process of assigning human-like characteristics or a persona to an AI model
+
+388. well-versed
+- 정통한, 잘하는
+- we assigned the 2nd persona of ChatGPT the role of a professional researcher who is well-versed in diffusion models and statistical methodologies
+
+389. intrigue
+- 강한 흥미[호기심]를 불러일으키다, 모의하다, 음모를 꾸미다
+- 
 
 
 
