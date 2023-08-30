@@ -1109,7 +1109,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 (그는 프라하가 유럽에서 가장 아름다운 도시라는 의견을 밝혔다.)
 
 228. underscore
-- 밑줄을 치다 (underline)
+- 밑줄을 치다 (underline), 강조하다
 - Underline[Underscore] the key words.
 (중요한 단어에 밑줄을 그어라)
 
@@ -1729,14 +1729,55 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 합성 작업
 - Their approach requires compositing the resulting images with foreground objects and is not open-ended, in the sense that it requires a dataset of background images.
 
-373. 
+373. usher
+- 안내하다
+- The birth of ChatGPT ushered in a new era in AI.
 
+374. symbiotic
+- 공생의, 공생하는
+- This symbiotic partnership between AI and researchers transforms how drug development is approached.
 
+375. trailblazer
+- 개척자, 선구자 (→blaze에 나오는 blaze a trail)
+- AI-powered chatbots as traiblazers in revolutionizing therapeutic innovation.
 
+376. sobriety
+- 술에 취하지 않은 상태, 맨 정신
+- All directed towards assisting individuals in regaining control of their lives and attaining prolonged sobriety.
 
+377. dissect
+- (무엇의 상태를) 해부[분석]하다, 나누다
+- We meticulously dissected protein-protein interaction networks and constructed models from extensive datasets of inhibitors.
 
+378. repurpose
+- 다른 목적[용도]에 맞게 만들다[고치다]
+- 
 
+379. elucidate
+- (더 자세히) 설명하다 (=explain)
+- We investigate the utility of ChatGPT as a virtual assistant that offers insightful concepts, elucidates mathematical and statistical methodologies, and provides coding support.
 
+380. imperative
+- 반드시 해야 하는, 긴요한 (=vital)
+- As such, it is imperative for researchers to utilize ChatGPT judiciously and always cross-reference its suggestions with authoritative sources.
+
+381. judiciously
+- 신중하게, 분별력 있게, 사려 깊게
+- As such, it is imperative for researchers to utilize ChatGPT judiciously and always cross-reference its suggestions with authoritative sources.
+
+382. affinity
+- 친밀감 (=rapport), (밀접한) 관련성, 친연성
+- In addition, upon advice from GPT-4, we examined the binding affinities and other pertinent properties for multiple targets concurrently.
+
+383. pertinent
+- (특정한 상황에) 적절한[관련 있는] (=relevant)
+- In addition, upon advice from GPT-4, we examined the binding affinities and other pertinent properties for multiple targets concurrently.
+
+384. adept
+- 능숙한 (=skilful)
+- Moreover, the second persona of GPT-4 will act as an adept browser, facilitating our comprehension of various mathematical and statistical principles.
+
+385. 
 
 
 
