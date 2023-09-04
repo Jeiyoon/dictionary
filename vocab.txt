@@ -1796,7 +1796,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 
 389. intrigue
 - 강한 흥미[호기심]를 불러일으키다, 모의하다, 음모를 꾸미다
-- 
+- we were specifically intrigued by its first suggestion concerning adjustments to the optimization algorithm
 
+390. Pharmacokinetic
+- 약물동태학(藥物動態學, 영어: pharmacokinetics PK, 약동학, 약물체내속도론)은 약물의 흡수, 분포, 대사, 배설과정을 동역학적 관점에서 해석하고 예측하고자 하는 약물학의 세부 학문이다.
+- Given that our focus is on choosing candidate reference compounds rather than optimizing leads, we elected not to factor in the pharmacokinetic properties
+
+391. 
 
 
