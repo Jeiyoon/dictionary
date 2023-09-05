@@ -1802,6 +1802,11 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 약물동태학(藥物動態學, 영어: pharmacokinetics PK, 약동학, 약물체내속도론)은 약물의 흡수, 분포, 대사, 배설과정을 동역학적 관점에서 해석하고 예측하고자 하는 약물학의 세부 학문이다.
 - Given that our focus is on choosing candidate reference compounds rather than optimizing leads, we elected not to factor in the pharmacokinetic properties
 
-391. 
+391. spearhead
+- (활동공격의) 선봉, 선봉에 서다, 진두지휘하다
+- We ensure that GoT is extensible with new thought transformations and thus can be used to spearhead new prompting schemes
+
+392. 
+
 
 
