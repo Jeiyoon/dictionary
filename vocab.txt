@@ -1806,7 +1806,24 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (활동공격의) 선봉, 선봉에 서다, 진두지휘하다
 - We ensure that GoT is extensible with new thought transformations and thus can be used to spearhead new prompting schemes
 
-392. 
+392. cornerstone
+- (건물의) 주춧돌[초석]
+- Large language models (LLMs), particularly characterized by their substantial number of parameters, have arisen as a promising cornerstone for the development of natural language processing (NLP) and artificial intelligence
 
+393. undermine
+- (특히 자신감·권위 등을) 약화시키다
+- This phenomenon is commonly referred to as hallucination, which significantly undermines the reliability of LLMs in real-world scenarios
 
+394. multifarious
+- 다양한, 다채로운
+- The source of fact-conflicting hallucinations can be multifarious and introduced at different stages of the LLM life cycle
 
+395. forth
+- …에서 멀리, 밖으로, …쪽으로, 앞으로 (→bring forth)
+- hallucinations in LLMs bring forth a unique and complex set of challenges stemming from the training process and usage scenarios.
+
+396. evade
+- (어떤 일이나 사람을) 피하다[모면하다], (특히 법적·도덕적 의무를) 회피하다
+- This kind of issue refers to the propensity of LLMs to evade answering certain questions or providing specific information
+
+397. 
