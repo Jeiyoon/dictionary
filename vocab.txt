@@ -1826,4 +1826,8 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (어떤 일이나 사람을) 피하다[모면하다], (특히 법적·도덕적 의무를) 회피하다
 - This kind of issue refers to the propensity of LLMs to evade answering certain questions or providing specific information
 
-397. 
+397. amass
+- 모으다, 축적하다 (=accumulate)
+- During the pre-training phase, LLMs amass a vast amount of knowledge from an enormous volume of training data, which is then stored within their model parameters.
+
+398. 
