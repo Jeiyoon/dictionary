@@ -1345,7 +1345,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - to retaliate against an attack
 - 공격에 대해 보복하다
 
-285. meticulous
+285. meticulous /  (부) meticulously
 - 꼼꼼한, 세심한 (=fastidious, thorough)
 - meticulous planning/records/research
 (꼼꼼한 계획/기록/조사)
@@ -1830,4 +1830,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 모으다, 축적하다 (=accumulate)
 - During the pre-training phase, LLMs amass a vast amount of knowledge from an enormous volume of training data, which is then stored within their model parameters.
 
-398. 
+398. sycophancy
+- 사대주의, 아첨, 아부
+- Another potential issue is sycophancy, where LLMs may generate responses that favor the user’s perspective rather than providing correct or truthful answers, which can result in hallucination
+
+399. remit
+- 소관, 송금하다 (=forward), (부채의무처벌 등을) 면제해 주다 (→unremitting), (=cancel)
+- One way to remit this problem can be the honesty-oriented SFT, which means introducing some honest samples into the SFT data
+
+400. 
