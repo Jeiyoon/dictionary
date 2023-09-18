@@ -1838,4 +1838,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 소관, 송금하다 (=forward), (부채의무처벌 등을) 면제해 주다 (→unremitting), (=cancel)
 - One way to remit this problem can be the honesty-oriented SFT, which means introducing some honest samples into the SFT data
 
-400. 
+400. inadvertently
+- 무심코, 우연히, 부주의로 (=unintentionally)
+- Previous work also pointed out that the SFT process may inadvertently introduce hallucinations
+
+401. captivate
+- …의 마음을 사로잡다[매혹하다] (=enchant)
+- “The Only Thing” (Four Flaming Days) is a captivating drama film that delves into the complexities of human emotions, relationships, and the power of resilience
+
+402. 
