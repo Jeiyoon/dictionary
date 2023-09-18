@@ -1846,4 +1846,26 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - …의 마음을 사로잡다[매혹하다] (=enchant)
 - “The Only Thing” (Four Flaming Days) is a captivating drama film that delves into the complexities of human emotions, relationships, and the power of resilience
 
-402. 
+402. proprietary
+- 등록[전매] 상표가 붙은, 소유주[자]의
+- It facilitates the easy transfer of proprietary knowledge (e.g., a company’s internal data) and realtime updated information to LLMs
+
+403. rectify
+- (잘못된 것을) 바로잡다 (=correct)
+- Provided that the uncertainty of LLM responses can be accurately characterized, users can filter out or rectify LLMs’ claims with high uncertainty since such claims are more prone to be fabricated ones
+
+404. endeavour
+- (특히 새롭거나 힘든 일을 하려는) 노력[시도], 힘껏 노력하다, 분투하다 (=strive)
+- Zhang endeavour to engineer more effective prompts to mitigate hallucination
+
+405. disseminate
+- (정보·지식 등을) 퍼뜨리다[전파하다]
+- Furthermore, a popular practice nowadays involves explicitly instructing LLMs not to disseminate false or unverifiable information when designing the “system prompt”
+
+406. contend
+- (특히 언쟁 중에) 주장하다 (=maintain), (~을 얻으려고) 다투다[겨루다]
+- Azaria and Mitchell contend that LLMs may be aware of their own falsehoods, implying that their internal states could be utilized to detect hallucinations
+
+407. 
+
+
