@@ -1866,6 +1866,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (특히 언쟁 중에) 주장하다 (=maintain), (~을 얻으려고) 다투다[겨루다]
 - Azaria and Mitchell contend that LLMs may be aware of their own falsehoods, implying that their internal states could be utilized to detect hallucinations
 
-407. 
+407. Ambivalent
+- 반대 감정이 병존하는, 애증이 엇갈리는
+- She seems to feel ambivalent about her new job
+(그녀는 새 직장에 대해 좋기도 하고 싫기도 한 모양이다)
 
+408. longitudinal
+- 세로(방향)의, 길이의, 종적인(무엇의 장기적인 변화 과정을 다룬)
+- Longitudinal Comparison: Language Models
+
+409. 
 
