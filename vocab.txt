@@ -1875,5 +1875,12 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 세로(방향)의, 길이의, 종적인(무엇의 장기적인 변화 과정을 다룬)
 - Longitudinal Comparison: Language Models
 
-409. 
+409. torso
+- 몸통, 동체 (=trunk)
+- However, even the largest models can still fail, particularly on lesser known torso and tail distribution facts.
 
+410. invoke
+- (법·규칙 등을) 들먹이다[적용하다], (근거·이유로 인물·이론·예 등을) 들다[언급하다]
+- While steps (1), (2) and (4) all can be invoked with a single prompt, we investigate ~
+
+411. 
