@@ -1133,7 +1133,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - a deliberative assembly[body]
 (심의회)
 
-233. cogently
+233. cogently / (cogent)
 - 설득력 있게 , 강제적으로.
 - The argument flows cogently from premise to conclusion.
 (그 논쟁은 명제에 근거해 설득력있게 결론으로 흘러갔다.)
@@ -1883,6 +1883,28 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (법·규칙 등을) 들먹이다[적용하다], (근거·이유로 인물·이론·예 등을) 들다[언급하다]
 - While steps (1), (2) and (4) all can be invoked with a single prompt, we investigate ~
 
-411. 
+411. collate
+- (여러 출처에서 정보를) 수집·분석하다, (종이나 페이지를) 순서대로 모으다[맞추다]
+- We collate all examples in the dataset that do not require logical operations to create a set of 55 test questions each having 8 answers
+
+412. extraneous
+- (특정 상황이나 주제와) 관련 없는 (=irrelevant)
+- We find that the instruction fine-tuned models tend to generate extraneous content when queried.
+
+413. furnish
+- (가구를) 비치하다, 제공[공급]하다
+- The results indicate that furnishing the model with fine-grained external knowledge, hints for knowledge recall, and guidance for reasoning can empower the model to answer questions more truthfully
+
+414. endow
+- (학교 등의 기관에 많은 돈을) 기부하다
+- GPT-4, endowed with a greater model size and a more extensive training dataset, delivers a considerable performance boost, showcasing advancements across all facets
+
+415. yearn
+- 갈망하다, 동경하다 (=long)
+- We yearn for this sequence of reliable knowledge when answering questions
+
+416. 
+
+
 
 
