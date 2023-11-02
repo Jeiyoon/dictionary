@@ -1903,8 +1903,17 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 갈망하다, 동경하다 (=long)
 - We yearn for this sequence of reliable knowledge when answering questions
 
-416. 
+416. interleave
+- (특히 얇은 막 같은 것을) 끼우다
+- It is a generic framework that actively decides when and what to retrieve through the generation process, resulting in the interleaving of retrieval and generation
 
+417. perpetuate
+- 영구화하다, 영속시키다
+- However, it has a risk of perpetuating errors contained in it
 
+418. plateaus
+- 고원, 안정기, 정체기
+- The performance plateaus when the retrieval percentage exceeds 60%, indicating that retrieval when LMs are confident is not necessary
 
+419. 
 
