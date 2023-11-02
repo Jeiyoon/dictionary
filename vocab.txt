@@ -1915,5 +1915,8 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 고원, 안정기, 정체기
 - The performance plateaus when the retrieval percentage exceeds 60%, indicating that retrieval when LMs are confident is not necessary
 
-419. 
+419. disparate
+- 이질적인 부분들[사람들]로 이뤄진
+- Retrieving multiple disparate pieces of information might not be necessary.
 
+420. 
