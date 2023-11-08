@@ -1919,4 +1919,13 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 이질적인 부분들[사람들]로 이뤄진
 - Retrieving multiple disparate pieces of information might not be necessary.
 
-420. 
+420. patchy
+- 군데군데[드문드문] 있는 (=uneven), (질적으로) 고르지 못한
+- Large Language Models (LLMs) evaluation is a patchy and inconsistent landscape, and it is becoming clear that the quality of automatic evaluation metrics is not keeping up with the pace of development of generative models
+
+421. surrogate
+- 대리의, 대용의
+- Robust evaluation is still an unsolved problem and established automatic evaluation metrics have been found to be poor surrogates, correlating weakly with human judgement
+
+422. 
+
