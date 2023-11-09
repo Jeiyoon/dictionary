@@ -1927,5 +1927,9 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 대리의, 대용의
 - Robust evaluation is still an unsolved problem and established automatic evaluation metrics have been found to be poor surrogates, correlating weakly with human judgement
 
-422. 
+422. plethora 
+- 과다, 과잉 (=excess)
+- Given the plethora of pre-trained models, we instantiate our framework with different backbones. 
+
+423. 
 
