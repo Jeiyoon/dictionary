@@ -1931,5 +1931,8 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - 과다, 과잉 (=excess)
 - Given the plethora of pre-trained models, we instantiate our framework with different backbones. 
 
-423. 
+423. heighten
+- (감정·효과가[를]) 고조되다[고조시키다] (=intensify)
+- However, the heightened user preference does not always correspond to improved scores on traditional LLM benchmarks
 
+424. 
