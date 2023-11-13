@@ -1935,4 +1935,15 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (감정·효과가[를]) 고조되다[고조시키다] (=intensify)
 - However, the heightened user preference does not always correspond to improved scores on traditional LLM benchmarks
 
-424. 
+424. declare a tie
+- 동점을 선언하다.
+- An LLM judge is presented with a question and two answers, and tasked to determine which one is better or declare a tie
+
+425. rubric
+- (책·시험지 등에 제시된) 지시문
+- This means GPT-4 has a relatively stable internal rubric
+
+426. 
+
+
+
