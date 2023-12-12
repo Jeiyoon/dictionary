@@ -1943,7 +1943,22 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (책·시험지 등에 제시된) 지시문
 - This means GPT-4 has a relatively stable internal rubric
 
-426. 
+426. sarcasm (형: sarcastic)
+- 빈정댐, 비꼼
+- For example, consider prompting an LM to write code that counts the number of times it detects sarcasm in an essay
 
+427. lieu
+- 장소(place)
+- Perhaps fundamentally, using LMs to write programs in lieu of multi-step textual reasoning inherently assumes that the intermediate reasoning traces (expressed in lines of code) all need to be executable by an interpreter
+
+428. herein
+- 여기에(서), 이 문서[진술/사실]에(서)
+- Herein, we refer to this as an LMulator, a portmanteau of LM and code emulator.
+
+429. portmanteau
+- (2등분 되면서 열리는) 대형 여행 가방
+- Herein, we refer to this as an LMulator, a portmanteau of LM and code emulator.
+
+430. 
 
 
