@@ -1959,6 +1959,14 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 - (2등분 되면서 열리는) 대형 여행 가방
 - Herein, we refer to this as an LMulator, a portmanteau of LM and code emulator.
 
-430. 
+430. fare
+- (특정 상황에서) 잘, 잘못, 더 잘하다 등 (=get on)
+The party fared very badly in the last election.
+(그 당은 지난 대선을 아주 잘못 치뤘다.)
+- CoC without the Python interpreter too fares poorly, though we see that the step-by-step approach proposed in ScratchPad prompting improves in each task.
+
+431.
+
+
 
 
