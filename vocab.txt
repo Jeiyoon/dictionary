@@ -1965,8 +1965,11 @@ The party fared very badly in the last election.
 (그 당은 지난 대선을 아주 잘못 치뤘다.)
 - CoC without the Python interpreter too fares poorly, though we see that the step-by-step approach proposed in ScratchPad prompting improves in each task.
 
-431.
+431. dyadic
+- 2개의 부분의[으로 구성되는]
+- For instance, comic conversations are often multiparty, whereas most existing dialog agents assume dyadic (two party) conversations.
 
+432. 
 
 
 
