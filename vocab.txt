@@ -1969,7 +1969,18 @@ The party fared very badly in the last election.
 - 2개의 부분의[으로 구성되는]
 - For instance, comic conversations are often multiparty, whereas most existing dialog agents assume dyadic (two party) conversations.
 
-432. 
+432. situated
+- (특정한 장소에) 위치해[자리하고] 있는, (특정한 상황에) 놓여[처해] 있는
+- As people read, they form dynamic impressions of the characters and plots. We name this process situated comprehension.
 
+433. methodical
+- 체계적인, 꼼꼼한 (=disciplined, precise)
+- a methodical approach/study
+(체계적인 접근법/연구)
 
+434. delegate
+- (집단의 의사를 대표하는) 대표(자), (권한·업무 등을) 위임하다, (대표를) 뽑다[선정하다]
+- Based on this resource, we propose our strategy of annotating user notes as a delegate of the book reading process.
+
+435. 
 
