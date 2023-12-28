@@ -1982,5 +1982,8 @@ The party fared very badly in the last election.
 - (집단의 의사를 대표하는) 대표(자), (권한·업무 등을) 위임하다, (대표를) 뽑다[선정하다]
 - Based on this resource, we propose our strategy of annotating user notes as a delegate of the book reading process.
 
-435. 
+435. cloze
+- (시험 문제 등의) 빈칸 메우기 식의
+- With specifically designed techniques, the clozes can be made resolvable only with global context
 
+436. 
