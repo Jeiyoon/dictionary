@@ -1986,4 +1986,8 @@ The party fared very badly in the last election.
 - (시험 문제 등의) 빈칸 메우기 식의
 - With specifically designed techniques, the clozes can be made resolvable only with global context
 
-436. 
+436. overt
+- 명시적인, 공공연한 (→covert)
+- The majority of stories produced by ChatGPT personas did not closely follow the provided prompts and often contained overt references to personality traits, which compromises their suitability for text-based personality assessment
+
+437. 
