@@ -1990,4 +1990,8 @@ The party fared very badly in the last election.
 - 명시적인, 공공연한 (→covert)
 - The majority of stories produced by ChatGPT personas did not closely follow the provided prompts and often contained overt references to personality traits, which compromises their suitability for text-based personality assessment
 
-437. 
+437. implore
+- 애원[간청]하다 (=beseech, beg)
+- She implored him to stay
+
+438. 
