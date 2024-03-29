@@ -1994,4 +1994,16 @@ The party fared very badly in the last election.
 - 애원[간청]하다 (=beseech, beg)
 - She implored him to stay
 
-438. 
+438. deluge
+- 폭우, 호우 (=flood), 쇄도, 폭주
+- The rapid advancement of high-quality image generation models based on AI has generated a deluge of anime illustrations.
+
+439. pivotal
+- 중심(축)이 되는
+- Feature extraction is the initial and most pivotal step
+
+440. garner
+- (정보·지지 등을) 얻다[모으다] (=gather, acquire)
+- MRS in such media has garnered widespread attention in academia and industry
+
+441. 
