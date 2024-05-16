@@ -2006,4 +2006,8 @@ The party fared very badly in the last election.
 - (정보·지지 등을) 얻다[모으다] (=gather, acquire)
 - MRS in such media has garnered widespread attention in academia and industry
 
-441. 
+441. catalyze
+- …에 촉매 작용을 미치다, <화학 반응을> 촉진시키다, (촉매 작용을 받아서) (…로) 변하다 ((into))
+- Recent advancements in large language models (LLMs) have catalyzed the emergence of roleplaying agents (RPAs).
+
+442. 
