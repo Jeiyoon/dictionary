@@ -2010,4 +2010,12 @@ The party fared very badly in the last election.
 - …에 촉매 작용을 미치다, <화학 반응을> 촉진시키다, (촉매 작용을 받아서) (…로) 변하다 ((into))
 - Recent advancements in large language models (LLMs) have catalyzed the emergence of roleplaying agents (RPAs).
 
-442. 
+442. delineate
+- (상세하게) 기술하다[그리다/설명하다]
+- In this section, we delineate our approaches to role-playing.
+
+443. predicament
+- 곤경, 궁지 (=quandary)
+- This predicament is raising a crucial question
+
+444.  
