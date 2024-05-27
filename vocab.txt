@@ -1521,7 +1521,7 @@ you follow up with something simple but unexpected, like “Is it hotter than it
 324. inclusive
 - (가격에) 일체의 경비가 포함된[…이 포함된] (↔exclusive)
 - The fully inclusive fare for the trip is £52.
-(일체의 경비가 다 포함된 그 여행비는 52파운드입니다.)w
+(일체의 경비가 다 포함된 그 여행비는 52파운드입니다.)
 - (언급된 날짜·월·수 등을 다 포함하여) …부터 …까지
 - We are offering free holidays for children aged two to eleven inclusive.
 (2세부터 11세까지의 아동에 대한 휴가 비용은 무료로 해 드립니다.)
@@ -2018,4 +2018,25 @@ The party fared very badly in the last election.
 - 곤경, 궁지 (=quandary)
 - This predicament is raising a crucial question
 
-444.  
+- (생각·감정을) 분명히 표현하다[설명하다]
+- Through conversational interactions, they have the potential to offer a relatable and accessible means for individuals to articulate their emotional states and personal experiences.
+
+445. adept in 
+- …에 능숙한.
+- Recognizing that GPT-4 has been shown to be adept in assisting with article screening and exhibits performance comparable to humans, ~
+
+446. eligible
+- (자격·연령 등의 조건이 맞아서) …을 가질[할] 수 있는 (↔ineligible), 적임, 적격 (eligibility)
+- Both YH and GPT-4 independently screened the article titles and abstracts to determine their eligibility for inclusion in the study
+
+447. 
+
+
+
+
+
+
+
+
+
+
