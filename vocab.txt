@@ -2029,7 +2029,12 @@ The party fared very badly in the last election.
 - (자격·연령 등의 조건이 맞아서) …을 가질[할] 수 있는 (↔ineligible), 적임, 적격 (eligibility)
 - Both YH and GPT-4 independently screened the article titles and abstracts to determine their eligibility for inclusion in the study
 
-447. 
+447. layman (laymen)
+- (특정 주제에 대한) 비전문가
+- One study utilized LLM - ChatGPT in their case, to generate data, and had trained laymen to review them.
+
+448.
+
 
 
 
