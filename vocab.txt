@@ -2033,8 +2033,19 @@ The party fared very badly in the last election.
 - (특정 주제에 대한) 비전문가
 - One study utilized LLM - ChatGPT in their case, to generate data, and had trained laymen to review them.
 
-448.
+448. exhaustive
+- (하나도 빠뜨리는 것 없이) 철저한[완전한]
+- Below, without being exhaustive, we outline three key areas for improvement that could help realize the full potential of LLMs in clinical practice
 
+449. appraisal (appraise)
+- (가치·업적·본질에 대한) 평가[판단]
+- It requires an in-depth cognitive appraisal of the situation, considering factors like pleasantness, control, and certainty of the outcome
+
+450. courteous
+- 공손한, 정중한 (↔discourteous)
+- The LLM generally generated courteous and comprehensive responses.
+
+451.
 
 
 
