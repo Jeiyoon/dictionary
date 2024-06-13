@@ -223,7 +223,7 @@ what the variational distribution will be as basically amortizing the process of
 - Living conditions are vastly different from those pertaining in their country of origin.
 (생활환경이 그들이 원래 살던 국가에 존재하던 것과는 판이하게 다르다.)
 
-47. cohesion
+47. cohesion (cohesive)
 - 화합, 결합 (=unity)
 - the cohesion of the nuclear family
 (핵가족의 화합)
@@ -2045,10 +2045,19 @@ The party fared very badly in the last election.
 - 공손한, 정중한 (↔discourteous)
 - The LLM generally generated courteous and comprehensive responses.
 
-451.
+451. amidst (amid, mid)
+- (특히 흥분·공포심이 느껴지는) 가운데[중]에, …으로 에워싸인
+-  Amidst the dynamic research landscape, researchers actively harness the language comprehension and generation capabilities of LLMs to redefine the foundations of recommendation tasks.
 
+452. orchestrate
+- (복잡한 계획·행사를 세심히 또는 은밀히) 조직하다 (=stage-manage)
+- They possess the capability to comprehend user preferences, orchestrate ranking stages, and contribute to the evolution of integrated conversational recommender systems.
 
+453. sluggish
+- 느릿느릿 움직이는, 부진한
+- This novel approach overcomes the text generation sluggishness typically encountered, resulting in more efficient recommendations
 
+454. 
 
 
 
