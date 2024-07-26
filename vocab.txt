@@ -2057,7 +2057,11 @@ The party fared very badly in the last election.
 - 느릿느릿 움직이는, 부진한
 - This novel approach overcomes the text generation sluggishness typically encountered, resulting in more efficient recommendations
 
-454. 
+454. incur
+- (좋지 못한 상황을[에]) 초래하다[처하게 되다], (비용을) 발생시키다[물게 되다]
+- Our open release strategy also means that these pretraining costs will not need to be incurred by other companies, saving more global resources.
+
+455. 
 
 
 
