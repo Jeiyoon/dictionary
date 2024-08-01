@@ -2061,7 +2061,11 @@ The party fared very badly in the last election.
 - (좋지 못한 상황을[에]) 초래하다[처하게 되다], (비용을) 발생시키다[물게 되다]
 - Our open release strategy also means that these pretraining costs will not need to be incurred by other companies, saving more global resources.
 
-455. 
+455. instill
+- 스며들게 하다, 서서히 주입시키다 ((into, in))
+- At a high level, existing methods instill the desired behaviors into a language model using curated sets of human preferences representing the types of behaviors that humans find safe and helpful.
+
+456.
 
 
 
