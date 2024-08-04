@@ -2065,8 +2065,15 @@ The party fared very badly in the last election.
 - 스며들게 하다, 서서히 주입시키다 ((into, in))
 - At a high level, existing methods instill the desired behaviors into a language model using curated sets of human preferences representing the types of behaviors that humans find safe and helpful.
 
-456.
+456. expound
+- 자세히 설명하다
+- we expound on the theoretical, empirical, and computational justification of utilizing the odds ratio in monolithic preference alignment.
 
+457. advertently
+- 주의 깊게, 용의주도하게.
+- Nevertheless, this inadvertently increases the likelihood of generating tokens in undesirable styles
+
+458. 
 
 
 
