@@ -2073,7 +2073,11 @@ The party fared very badly in the last election.
 - 주의 깊게, 용의주도하게.
 - Nevertheless, this inadvertently increases the likelihood of generating tokens in undesirable styles
 
-458. 
+458. sporadic
+- 산발적인, 이따금 발생하는 (=intermittent)
+- However, these methods are typically sporadic and disjointed, ~
+
+459. 
 
 
 
